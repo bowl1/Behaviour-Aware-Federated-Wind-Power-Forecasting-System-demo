@@ -22,3 +22,4 @@
 /Users/libowen/github/turbine_forecasting/src/obj/Debug/net8.0/TurbineForecast.Api.pdb
 /Users/libowen/github/turbine_forecasting/src/obj/Debug/net8.0/TurbineForecast.Api.genruntimeconfig.cache
 /Users/libowen/github/turbine_forecasting/src/obj/Debug/net8.0/ref/TurbineForecast.Api.dll
+/Users/libowen/github/turbine_forecasting/src/obj/Debug/net8.0/TurbineForecast.Api.sourcelink.json

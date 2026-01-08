@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TurbineForecast.Api")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+74c5f578a6a8a6d569dfabb596fc2e1e9afb0346")]
 [assembly: System.Reflection.AssemblyProductAttribute("TurbineForecast.Api")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TurbineForecast.Api")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

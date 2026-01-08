@@ -25,6 +25,9 @@ A full-stack wind turbine power forecasting application demonstrating modern mic
 ## Demo
 ![demo](./demo/demo.gif)
 
+![img](./demo/screenshot1.png)
+![img](./demo/screenshot2.png)
+![img](./demo/screenshot3.png)
 
 ---
 
