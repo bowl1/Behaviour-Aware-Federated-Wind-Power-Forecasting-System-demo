@@ -196,3 +196,4 @@ def forecast(req: ForecastRequest):
 
 
 # To run: uvicorn main:app --reload --port 8000
+# Swagger UI: http://localhost:8000/docs
