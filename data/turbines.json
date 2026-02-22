@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-01-07T20:08:17.166076",
+    "generated_at": "2026-02-23T00:16:11.161590",
     "total_turbines": 400,
     "cluster_distribution": {
-      "0": "61",
-      "1": "0",
+      "0": 49,
+      "1": 12,
       "2": 4,
       "3": 246,
       "4": 74,
@@ -27,2804 +27,2804 @@
   },
   "turbines": [
     {
-      "turbineId": "T320",
-      "clusterId": 4,
-      "latitude": 55.716422,
-      "longitude": 12.40914,
-      "capacity": 3.83
-    },
-    {
-      "turbineId": "T017",
-      "clusterId": 0,
-      "latitude": 56.048195,
-      "longitude": 13.319281,
-      "capacity": 4.2
-    },
-    {
-      "turbineId": "T210",
-      "clusterId": 3,
-      "latitude": 55.143912,
-      "longitude": 13.990504,
-      "capacity": 3.92
-    },
-    {
-      "turbineId": "T280",
-      "clusterId": 3,
-      "latitude": 55.334407,
-      "longitude": 12.599532,
-      "capacity": 3.61
-    },
-    {
-      "turbineId": "T296",
-      "clusterId": 3,
-      "latitude": 54.96932,
-      "longitude": 14.167727,
-      "capacity": 4.38
-    },
-    {
-      "turbineId": "T213",
-      "clusterId": 3,
-      "latitude": 55.477408,
-      "longitude": 13.416553,
-      "capacity": 3.34
-    },
-    {
-      "turbineId": "T235",
-      "clusterId": 3,
-      "latitude": 55.168764,
-      "longitude": 13.73945,
-      "capacity": 3.21
-    },
-    {
-      "turbineId": "T373",
-      "clusterId": 4,
-      "latitude": 55.560147,
-      "longitude": 12.007188,
-      "capacity": 2.02
-    },
-    {
-      "turbineId": "T234",
-      "clusterId": 3,
-      "latitude": 55.346773,
-      "longitude": 12.478346,
-      "capacity": 4.39
-    },
-    {
-      "turbineId": "T036",
-      "clusterId": 0,
-      "latitude": 56.248895,
-      "longitude": 12.436413,
-      "capacity": 4.07
-    },
-    {
-      "turbineId": "T369",
-      "clusterId": 4,
-      "latitude": 55.323205,
-      "longitude": 12.446058,
-      "capacity": 2.73
-    },
-    {
-      "turbineId": "T070",
-      "clusterId": 3,
-      "latitude": 55.366255,
-      "longitude": 12.270338,
-      "capacity": 3.31
-    },
-    {
-      "turbineId": "T380",
-      "clusterId": 4,
-      "latitude": 55.409834,
-      "longitude": 12.018854,
-      "capacity": 3.08
-    },
-    {
-      "turbineId": "T276",
-      "clusterId": 3,
-      "latitude": 55.336559,
-      "longitude": 13.539673,
-      "capacity": 2.87
-    },
-    {
-      "turbineId": "T302",
-      "clusterId": 3,
-      "latitude": 54.993506,
-      "longitude": 13.51544,
-      "capacity": 3.65
-    },
-    {
-      "turbineId": "T282",
-      "clusterId": 3,
-      "latitude": 55.396854,
-      "longitude": 13.655309,
-      "capacity": 3.58
-    },
-    {
-      "turbineId": "T077",
-      "clusterId": 3,
-      "latitude": 55.674813,
-      "longitude": 13.04877,
-      "capacity": 3.15
-    },
-    {
-      "turbineId": "T336",
-      "clusterId": 4,
-      "latitude": 56.079966,
-      "longitude": 12.388463,
-      "capacity": 3.46
-    },
-    {
-      "turbineId": "T289",
-      "clusterId": 3,
-      "latitude": 54.916507,
-      "longitude": 12.963265,
-      "capacity": 4.25
-    },
-    {
-      "turbineId": "T286",
-      "clusterId": 3,
-      "latitude": 55.454238,
-      "longitude": 12.390432,
-      "capacity": 3.44
-    },
-    {
-      "turbineId": "T165",
-      "clusterId": 3,
-      "latitude": 55.225307,
-      "longitude": 11.958858,
-      "capacity": 4.24
-    },
-    {
-      "turbineId": "T171",
-      "clusterId": 3,
-      "latitude": 55.666895,
-      "longitude": 12.918155,
-      "capacity": 3.73
-    },
-    {
-      "turbineId": "T346",
-      "clusterId": 4,
-      "latitude": 56.092197,
-      "longitude": 12.015474,
-      "capacity": 4.24
-    },
-    {
-      "turbineId": "T361",
-      "clusterId": 4,
-      "latitude": 55.908494,
-      "longitude": 12.070758,
-      "capacity": 2.68
-    },
-    {
-      "turbineId": "T372",
-      "clusterId": 4,
-      "latitude": 55.612555,
-      "longitude": 11.953775,
-      "capacity": 4.48
-    },
-    {
-      "turbineId": "T107",
-      "clusterId": 3,
-      "latitude": 55.534515,
-      "longitude": 13.862078,
-      "capacity": 2.73
-    },
-    {
-      "turbineId": "T209",
-      "clusterId": 3,
-      "latitude": 54.807108,
-      "longitude": 13.141223,
-      "capacity": 4.18
-    },
-    {
-      "turbineId": "T110",
-      "clusterId": 3,
-      "latitude": 55.031461,
-      "longitude": 12.186986,
-      "capacity": 3.76
-    },
-    {
-      "turbineId": "T207",
-      "clusterId": 3,
-      "latitude": 55.294617,
-      "longitude": 13.171753,
-      "capacity": 4.35
-    },
-    {
-      "turbineId": "T050",
-      "clusterId": 0,
-      "latitude": 55.874002,
-      "longitude": 14.797014,
-      "capacity": 4.07
-    },
-    {
-      "turbineId": "T321",
-      "clusterId": 4,
-      "latitude": 55.385762,
-      "longitude": 12.316079,
-      "capacity": 3.29
-    },
-    {
-      "turbineId": "T118",
-      "clusterId": 3,
-      "latitude": 55.037613,
-      "longitude": 12.385003,
-      "capacity": 3.44
-    },
-    {
-      "turbineId": "T360",
-      "clusterId": 4,
-      "latitude": 55.349864,
-      "longitude": 11.658489,
-      "capacity": 3.33
-    },
-    {
-      "turbineId": "T152",
-      "clusterId": 3,
-      "latitude": 55.571237,
-      "longitude": 13.740053,
-      "capacity": 2.43
-    },
-    {
-      "turbineId": "T193",
-      "clusterId": 3,
-      "latitude": 55.073647,
-      "longitude": 13.019776,
-      "capacity": 3.4
-    },
-    {
-      "turbineId": "T000",
-      "clusterId": 0,
-      "latitude": 56.192435,
-      "longitude": 12.01593,
-      "capacity": 2.79
-    },
-    {
-      "turbineId": "T391",
-      "clusterId": 6,
-      "latitude": 54.78724,
-      "longitude": 13.32782,
-      "capacity": 2.05
-    },
-    {
-      "turbineId": "T354",
-      "clusterId": 4,
-      "latitude": 55.5175,
-      "longitude": 11.973982,
-      "capacity": 2.97
-    },
-    {
-      "turbineId": "T326",
-      "clusterId": 4,
-      "latitude": 55.973673,
-      "longitude": 12.105828,
-      "capacity": 2.43
-    },
-    {
-      "turbineId": "T178",
-      "clusterId": 3,
-      "latitude": 55.345317,
-      "longitude": 13.614401,
-      "capacity": 2.97
-    },
-    {
-      "turbineId": "T331",
-      "clusterId": 4,
-      "latitude": 55.202809,
-      "longitude": 12.041233,
-      "capacity": 2.87
-    },
-    {
-      "turbineId": "T316",
-      "clusterId": 4,
-      "latitude": 55.702425,
-      "longitude": 11.946766,
-      "capacity": 2.36
-    },
-    {
-      "turbineId": "T218",
-      "clusterId": 3,
-      "latitude": 55.212663,
-      "longitude": 12.327856,
-      "capacity": 4.3
-    },
-    {
-      "turbineId": "T349",
-      "clusterId": 4,
-      "latitude": 55.833976,
-      "longitude": 12.475921,
-      "capacity": 3.78
-    },
-    {
-      "turbineId": "T293",
-      "clusterId": 3,
-      "latitude": 54.948522,
-      "longitude": 13.050004,
-      "capacity": 3.34
-    },
-    {
-      "turbineId": "T055",
-      "clusterId": 0,
-      "latitude": 55.872906,
-      "longitude": 14.391979,
-      "capacity": 3.52
-    },
-    {
-      "turbineId": "T351",
-      "clusterId": 4,
-      "latitude": 55.999826,
-      "longitude": 12.256995,
-      "capacity": 2.78
-    },
-    {
-      "turbineId": "T216",
-      "clusterId": 3,
-      "latitude": 54.955272,
-      "longitude": 13.950225,
-      "capacity": 2.43
-    },
-    {
       "turbineId": "T088",
       "clusterId": 3,
-      "latitude": 55.172947,
-      "longitude": 13.9544,
-      "capacity": 3.66
+      "latitude": 55.781206,
+      "longitude": 12.365541,
+      "capacity": 3.14
     },
     {
-      "turbineId": "T132",
+      "turbineId": "T232",
       "clusterId": 3,
-      "latitude": 54.852158,
-      "longitude": 12.203837,
-      "capacity": 4.42
-    },
-    {
-      "turbineId": "T112",
-      "clusterId": 3,
-      "latitude": 54.895694,
-      "longitude": 13.386576,
-      "capacity": 2.97
-    },
-    {
-      "turbineId": "T039",
-      "clusterId": 0,
-      "latitude": 55.987194,
-      "longitude": 12.143745,
-      "capacity": 3.64
-    },
-    {
-      "turbineId": "T229",
-      "clusterId": 3,
-      "latitude": 55.178989,
-      "longitude": 12.130375,
-      "capacity": 2.02
-    },
-    {
-      "turbineId": "T169",
-      "clusterId": 3,
-      "latitude": 55.53682,
-      "longitude": 12.53969,
-      "capacity": 4.5
-    },
-    {
-      "turbineId": "T131",
-      "clusterId": 3,
-      "latitude": 54.98069,
-      "longitude": 14.07856,
+      "latitude": 55.318841,
+      "longitude": 12.118789,
       "capacity": 2.91
-    },
-    {
-      "turbineId": "T183",
-      "clusterId": 3,
-      "latitude": 55.384995,
-      "longitude": 12.715123,
-      "capacity": 3.3
-    },
-    {
-      "turbineId": "T340",
-      "clusterId": 4,
-      "latitude": 55.544394,
-      "longitude": 11.996674,
-      "capacity": 4.29
-    },
-    {
-      "turbineId": "T025",
-      "clusterId": 0,
-      "latitude": 56.346586,
-      "longitude": 12.930443,
-      "capacity": 3.92
-    },
-    {
-      "turbineId": "T108",
-      "clusterId": 3,
-      "latitude": 54.852572,
-      "longitude": 13.226876,
-      "capacity": 4.21
-    },
-    {
-      "turbineId": "T051",
-      "clusterId": 0,
-      "latitude": 56.168122,
-      "longitude": 15.177662,
-      "capacity": 3.07
-    },
-    {
-      "turbineId": "T053",
-      "clusterId": 0,
-      "latitude": 55.777167,
-      "longitude": 13.58478,
-      "capacity": 3.12
-    },
-    {
-      "turbineId": "T383",
-      "clusterId": 4,
-      "latitude": 55.203104,
-      "longitude": 12.103558,
-      "capacity": 4.03
-    },
-    {
-      "turbineId": "T374",
-      "clusterId": 4,
-      "latitude": 55.531212,
-      "longitude": 12.378768,
-      "capacity": 2.28
-    },
-    {
-      "turbineId": "T141",
-      "clusterId": 3,
-      "latitude": 55.044545,
-      "longitude": 11.843849,
-      "capacity": 3.95
-    },
-    {
-      "turbineId": "T308",
-      "clusterId": 3,
-      "latitude": 55.031448,
-      "longitude": 13.429358,
-      "capacity": 3.03
-    },
-    {
-      "turbineId": "T093",
-      "clusterId": 3,
-      "latitude": 55.544893,
-      "longitude": 11.820046,
-      "capacity": 3.63
-    },
-    {
-      "turbineId": "T079",
-      "clusterId": 3,
-      "latitude": 55.139564,
-      "longitude": 12.001431,
-      "capacity": 3.34
-    },
-    {
-      "turbineId": "T161",
-      "clusterId": 3,
-      "latitude": 54.918856,
-      "longitude": 11.946811,
-      "capacity": 2.32
-    },
-    {
-      "turbineId": "T237",
-      "clusterId": 3,
-      "latitude": 55.035424,
-      "longitude": 13.094493,
-      "capacity": 3.07
-    },
-    {
-      "turbineId": "T084",
-      "clusterId": 3,
-      "latitude": 55.117819,
-      "longitude": 12.674125,
-      "capacity": 4.22
-    },
-    {
-      "turbineId": "T332",
-      "clusterId": 4,
-      "latitude": 55.993289,
-      "longitude": 11.693935,
-      "capacity": 3.51
-    },
-    {
-      "turbineId": "T294",
-      "clusterId": 3,
-      "latitude": 55.605314,
-      "longitude": 13.039716,
-      "capacity": 3.26
-    },
-    {
-      "turbineId": "T185",
-      "clusterId": 3,
-      "latitude": 55.116316,
-      "longitude": 13.840154,
-      "capacity": 2.25
-    },
-    {
-      "turbineId": "T174",
-      "clusterId": 3,
-      "latitude": 55.562081,
-      "longitude": 12.435575,
-      "capacity": 4.25
-    },
-    {
-      "turbineId": "T390",
-      "clusterId": 5,
-      "latitude": 55.085621,
-      "longitude": 12.195632,
-      "capacity": 3.15
-    },
-    {
-      "turbineId": "T388",
-      "clusterId": 5,
-      "latitude": 54.700082,
-      "longitude": 11.677511,
-      "capacity": 4.39
-    },
-    {
-      "turbineId": "T133",
-      "clusterId": 3,
-      "latitude": 54.896096,
-      "longitude": 12.285674,
-      "capacity": 3.88
-    },
-    {
-      "turbineId": "T159",
-      "clusterId": 3,
-      "latitude": 55.609321,
-      "longitude": 13.324032,
-      "capacity": 2.32
-    },
-    {
-      "turbineId": "T199",
-      "clusterId": 3,
-      "latitude": 54.839241,
-      "longitude": 13.688565,
-      "capacity": 3.42
-    },
-    {
-      "turbineId": "T123",
-      "clusterId": 3,
-      "latitude": 55.258237,
-      "longitude": 12.004057,
-      "capacity": 4.46
-    },
-    {
-      "turbineId": "T301",
-      "clusterId": 3,
-      "latitude": 55.212218,
-      "longitude": 12.52571,
-      "capacity": 3.8
-    },
-    {
-      "turbineId": "T376",
-      "clusterId": 4,
-      "latitude": 55.265136,
-      "longitude": 12.029229,
-      "capacity": 2.37
-    },
-    {
-      "turbineId": "T241",
-      "clusterId": 3,
-      "latitude": 55.044955,
-      "longitude": 12.856061,
-      "capacity": 3.36
-    },
-    {
-      "turbineId": "T306",
-      "clusterId": 3,
-      "latitude": 55.23303,
-      "longitude": 13.648968,
-      "capacity": 3.07
-    },
-    {
-      "turbineId": "T066",
-      "clusterId": 3,
-      "latitude": 55.385522,
-      "longitude": 13.83417,
-      "capacity": 4.37
-    },
-    {
-      "turbineId": "T382",
-      "clusterId": 4,
-      "latitude": 55.659722,
-      "longitude": 11.971417,
-      "capacity": 3.83
-    },
-    {
-      "turbineId": "T173",
-      "clusterId": 3,
-      "latitude": 55.296805,
-      "longitude": 14.132175,
-      "capacity": 3.99
-    },
-    {
-      "turbineId": "T252",
-      "clusterId": 3,
-      "latitude": 55.045271,
-      "longitude": 13.635567,
-      "capacity": 3.93
-    },
-    {
-      "turbineId": "T149",
-      "clusterId": 3,
-      "latitude": 54.963044,
-      "longitude": 12.662677,
-      "capacity": 3.87
-    },
-    {
-      "turbineId": "T068",
-      "clusterId": 3,
-      "latitude": 55.552611,
-      "longitude": 13.75117,
-      "capacity": 2.19
-    },
-    {
-      "turbineId": "T300",
-      "clusterId": 3,
-      "latitude": 55.063621,
-      "longitude": 11.863864,
-      "capacity": 2.9
-    },
-    {
-      "turbineId": "T348",
-      "clusterId": 4,
-      "latitude": 55.186947,
-      "longitude": 11.789691,
-      "capacity": 4.37
-    },
-    {
-      "turbineId": "T345",
-      "clusterId": 4,
-      "latitude": 55.244102,
-      "longitude": 12.285776,
-      "capacity": 3.76
-    },
-    {
-      "turbineId": "T217",
-      "clusterId": 3,
-      "latitude": 55.690751,
-      "longitude": 12.350686,
-      "capacity": 2.72
-    },
-    {
-      "turbineId": "T337",
-      "clusterId": 4,
-      "latitude": 55.304362,
-      "longitude": 11.818975,
-      "capacity": 2.88
-    },
-    {
-      "turbineId": "T101",
-      "clusterId": 3,
-      "latitude": 54.982692,
-      "longitude": 13.674712,
-      "capacity": 3.05
-    },
-    {
-      "turbineId": "T148",
-      "clusterId": 3,
-      "latitude": 55.10719,
-      "longitude": 14.164282,
-      "capacity": 3.12
-    },
-    {
-      "turbineId": "T082",
-      "clusterId": 3,
-      "latitude": 55.065609,
-      "longitude": 13.953438,
-      "capacity": 2.24
-    },
-    {
-      "turbineId": "T291",
-      "clusterId": 3,
-      "latitude": 55.349096,
-      "longitude": 12.11822,
-      "capacity": 2.66
-    },
-    {
-      "turbineId": "T061",
-      "clusterId": 2,
-      "latitude": 55.073392,
-      "longitude": 14.726939,
-      "capacity": 3.38
-    },
-    {
-      "turbineId": "T094",
-      "clusterId": 3,
-      "latitude": 55.542863,
-      "longitude": 13.41076,
-      "capacity": 4.22
-    },
-    {
-      "turbineId": "T164",
-      "clusterId": 3,
-      "latitude": 55.554907,
-      "longitude": 12.648975,
-      "capacity": 2.76
-    },
-    {
-      "turbineId": "T197",
-      "clusterId": 3,
-      "latitude": 54.868115,
-      "longitude": 12.448679,
-      "capacity": 2.45
-    },
-    {
-      "turbineId": "T269",
-      "clusterId": 3,
-      "latitude": 54.94464,
-      "longitude": 14.021987,
-      "capacity": 4.18
-    },
-    {
-      "turbineId": "T220",
-      "clusterId": 3,
-      "latitude": 55.619865,
-      "longitude": 12.355698,
-      "capacity": 3.6
-    },
-    {
-      "turbineId": "T089",
-      "clusterId": 3,
-      "latitude": 55.104226,
-      "longitude": 12.978447,
-      "capacity": 4.49
-    },
-    {
-      "turbineId": "T168",
-      "clusterId": 3,
-      "latitude": 54.833401,
-      "longitude": 12.72685,
-      "capacity": 3.8
-    },
-    {
-      "turbineId": "T278",
-      "clusterId": 3,
-      "latitude": 55.141734,
-      "longitude": 12.067167,
-      "capacity": 2.61
-    },
-    {
-      "turbineId": "T385",
-      "clusterId": 5,
-      "latitude": 54.842025,
-      "longitude": 11.594242,
-      "capacity": 4.41
-    },
-    {
-      "turbineId": "T014",
-      "clusterId": 0,
-      "latitude": 56.023421,
-      "longitude": 12.66299,
-      "capacity": 4.1
-    },
-    {
-      "turbineId": "T325",
-      "clusterId": 4,
-      "latitude": 55.837629,
-      "longitude": 12.403368,
-      "capacity": 4.48
-    },
-    {
-      "turbineId": "T156",
-      "clusterId": 3,
-      "latitude": 54.991285,
-      "longitude": 12.621313,
-      "capacity": 2.64
-    },
-    {
-      "turbineId": "T119",
-      "clusterId": 3,
-      "latitude": 54.953195,
-      "longitude": 12.944373,
-      "capacity": 2.41
-    },
-    {
-      "turbineId": "T120",
-      "clusterId": 3,
-      "latitude": 55.27528,
-      "longitude": 13.99285,
-      "capacity": 2.54
-    },
-    {
-      "turbineId": "T323",
-      "clusterId": 4,
-      "latitude": 55.278597,
-      "longitude": 12.160372,
-      "capacity": 2.16
-    },
-    {
-      "turbineId": "T243",
-      "clusterId": 3,
-      "latitude": 55.314344,
-      "longitude": 14.1879,
-      "capacity": 2.99
-    },
-    {
-      "turbineId": "T142",
-      "clusterId": 3,
-      "latitude": 55.511518,
-      "longitude": 13.309931,
-      "capacity": 3.06
-    },
-    {
-      "turbineId": "T203",
-      "clusterId": 3,
-      "latitude": 55.265842,
-      "longitude": 13.938145,
-      "capacity": 2.61
-    },
-    {
-      "turbineId": "T208",
-      "clusterId": 3,
-      "latitude": 55.484005,
-      "longitude": 12.764771,
-      "capacity": 4.24
-    },
-    {
-      "turbineId": "T021",
-      "clusterId": 0,
-      "latitude": 56.12344,
-      "longitude": 12.598993,
-      "capacity": 2.44
-    },
-    {
-      "turbineId": "T329",
-      "clusterId": 4,
-      "latitude": 55.369362,
-      "longitude": 12.463209,
-      "capacity": 2.59
-    },
-    {
-      "turbineId": "T058",
-      "clusterId": 0,
-      "latitude": 55.712606,
-      "longitude": 14.458295,
-      "capacity": 3.49
-    },
-    {
-      "turbineId": "T353",
-      "clusterId": 4,
-      "latitude": 55.230773,
-      "longitude": 12.429218,
-      "capacity": 2.62
-    },
-    {
-      "turbineId": "T111",
-      "clusterId": 3,
-      "latitude": 55.643514,
-      "longitude": 11.800877,
-      "capacity": 2.0
-    },
-    {
-      "turbineId": "T322",
-      "clusterId": 4,
-      "latitude": 55.334831,
-      "longitude": 12.139722,
-      "capacity": 3.63
-    },
-    {
-      "turbineId": "T191",
-      "clusterId": 3,
-      "latitude": 55.293874,
-      "longitude": 13.083566,
-      "capacity": 3.23
-    },
-    {
-      "turbineId": "T398",
-      "clusterId": 6,
-      "latitude": 54.608986,
-      "longitude": 12.623948,
-      "capacity": 4.05
-    },
-    {
-      "turbineId": "T200",
-      "clusterId": 3,
-      "latitude": 55.033474,
-      "longitude": 13.248143,
-      "capacity": 2.14
-    },
-    {
-      "turbineId": "T072",
-      "clusterId": 3,
-      "latitude": 55.55224,
-      "longitude": 14.080683,
-      "capacity": 2.34
-    },
-    {
-      "turbineId": "T381",
-      "clusterId": 4,
-      "latitude": 55.632031,
-      "longitude": 11.987973,
-      "capacity": 2.94
-    },
-    {
-      "turbineId": "T231",
-      "clusterId": 3,
-      "latitude": 54.811724,
-      "longitude": 12.999792,
-      "capacity": 2.23
-    },
-    {
-      "turbineId": "T175",
-      "clusterId": 3,
-      "latitude": 54.89052,
-      "longitude": 11.821124,
-      "capacity": 2.9
-    },
-    {
-      "turbineId": "T037",
-      "clusterId": 0,
-      "latitude": 56.260047,
-      "longitude": 12.000996,
-      "capacity": 2.04
-    },
-    {
-      "turbineId": "T045",
-      "clusterId": 0,
-      "latitude": 55.827771,
-      "longitude": 12.511948,
-      "capacity": 3.7
-    },
-    {
-      "turbineId": "T103",
-      "clusterId": 3,
-      "latitude": 55.367726,
-      "longitude": 13.742897,
-      "capacity": 3.09
-    },
-    {
-      "turbineId": "T287",
-      "clusterId": 3,
-      "latitude": 55.572037,
-      "longitude": 13.130586,
-      "capacity": 3.63
-    },
-    {
-      "turbineId": "T029",
-      "clusterId": 0,
-      "latitude": 56.326232,
-      "longitude": 12.06831,
-      "capacity": 2.07
-    },
-    {
-      "turbineId": "T204",
-      "clusterId": 3,
-      "latitude": 54.907259,
-      "longitude": 12.724943,
-      "capacity": 2.61
-    },
-    {
-      "turbineId": "T358",
-      "clusterId": 4,
-      "latitude": 55.472297,
-      "longitude": 11.587404,
-      "capacity": 3.93
-    },
-    {
-      "turbineId": "T219",
-      "clusterId": 3,
-      "latitude": 55.204125,
-      "longitude": 13.600033,
-      "capacity": 3.18
-    },
-    {
-      "turbineId": "T115",
-      "clusterId": 3,
-      "latitude": 55.579552,
-      "longitude": 12.041905,
-      "capacity": 2.7
-    },
-    {
-      "turbineId": "T078",
-      "clusterId": 3,
-      "latitude": 55.365721,
-      "longitude": 13.968139,
-      "capacity": 2.55
-    },
-    {
-      "turbineId": "T265",
-      "clusterId": 3,
-      "latitude": 55.560558,
-      "longitude": 13.262659,
-      "capacity": 3.0
-    },
-    {
-      "turbineId": "T154",
-      "clusterId": 3,
-      "latitude": 55.663051,
-      "longitude": 13.354581,
-      "capacity": 3.89
-    },
-    {
-      "turbineId": "T297",
-      "clusterId": 3,
-      "latitude": 55.658911,
-      "longitude": 13.708947,
-      "capacity": 3.73
-    },
-    {
-      "turbineId": "T046",
-      "clusterId": 0,
-      "latitude": 55.874675,
-      "longitude": 13.48733,
-      "capacity": 3.96
-    },
-    {
-      "turbineId": "T035",
-      "clusterId": 0,
-      "latitude": 55.893111,
-      "longitude": 12.100188,
-      "capacity": 2.16
     },
     {
       "turbineId": "T138",
       "clusterId": 3,
-      "latitude": 55.694094,
-      "longitude": 13.727418,
-      "capacity": 2.33
+      "latitude": 55.341447,
+      "longitude": 12.391187,
+      "capacity": 4.18
     },
     {
-      "turbineId": "T198",
-      "clusterId": 3,
-      "latitude": 55.451923,
-      "longitude": 13.049824,
-      "capacity": 3.33
-    },
-    {
-      "turbineId": "T328",
+      "turbineId": "T331",
       "clusterId": 4,
-      "latitude": 55.206675,
-      "longitude": 12.279614,
-      "capacity": 3.61
+      "latitude": 55.776722,
+      "longitude": 11.74063,
+      "capacity": 3.11
     },
     {
-      "turbineId": "T284",
+      "turbineId": "T293",
       "clusterId": 3,
-      "latitude": 54.911136,
-      "longitude": 12.303999,
-      "capacity": 3.36
+      "latitude": 55.325323,
+      "longitude": 11.821765,
+      "capacity": 2.61
     },
     {
-      "turbineId": "T073",
+      "turbineId": "T271",
       "clusterId": 3,
-      "latitude": 55.652042,
-      "longitude": 12.494518,
-      "capacity": 2.49
+      "latitude": 55.504759,
+      "longitude": 12.19478,
+      "capacity": 3.02
     },
     {
-      "turbineId": "T245",
+      "turbineId": "T193",
       "clusterId": 3,
-      "latitude": 55.341606,
-      "longitude": 12.926282,
-      "capacity": 2.03
+      "latitude": 55.235501,
+      "longitude": 11.473437,
+      "capacity": 2.88
     },
     {
-      "turbineId": "T270",
+      "turbineId": "T194",
       "clusterId": 3,
-      "latitude": 55.613889,
-      "longitude": 13.627742,
-      "capacity": 3.67
+      "latitude": 55.198858,
+      "longitude": 11.595154,
+      "capacity": 3.59
     },
     {
-      "turbineId": "T223",
+      "turbineId": "T222",
       "clusterId": 3,
-      "latitude": 55.308281,
-      "longitude": 13.996906,
-      "capacity": 3.47
+      "latitude": 55.556059,
+      "longitude": 11.885838,
+      "capacity": 2.85
     },
     {
-      "turbineId": "T307",
+      "turbineId": "T200",
       "clusterId": 3,
-      "latitude": 54.801854,
-      "longitude": 13.246106,
-      "capacity": 3.65
+      "latitude": 55.832482,
+      "longitude": 11.574314,
+      "capacity": 3.57
     },
     {
-      "turbineId": "T396",
-      "clusterId": 6,
-      "latitude": 54.657499,
-      "longitude": 13.457001,
-      "capacity": 2.45
+      "turbineId": "T242",
+      "clusterId": 3,
+      "latitude": 55.15841,
+      "longitude": 11.673235,
+      "capacity": 2.27
     },
     {
-      "turbineId": "T020",
+      "turbineId": "T004",
       "clusterId": 0,
-      "latitude": 55.891824,
-      "longitude": 12.950376,
-      "capacity": 3.31
+      "latitude": 55.791145,
+      "longitude": 11.956966,
+      "capacity": 3.1
     },
     {
-      "turbineId": "T249",
+      "turbineId": "T282",
       "clusterId": 3,
-      "latitude": 55.197319,
-      "longitude": 13.3424,
-      "capacity": 2.03
+      "latitude": 55.528655,
+      "longitude": 12.543404,
+      "capacity": 2.9
     },
     {
-      "turbineId": "T040",
-      "clusterId": 0,
-      "latitude": 56.20122,
-      "longitude": 12.087859,
-      "capacity": 4.46
+      "turbineId": "T390",
+      "clusterId": 5,
+      "latitude": 55.184541,
+      "longitude": 11.973032,
+      "capacity": 2.9
     },
     {
-      "turbineId": "T201",
+      "turbineId": "T049",
+      "clusterId": 1,
+      "latitude": 55.771556,
+      "longitude": 12.568539,
+      "capacity": 2.3
+    },
+    {
+      "turbineId": "T097",
       "clusterId": 3,
-      "latitude": 55.371606,
-      "longitude": 12.849865,
-      "capacity": 3.34
+      "latitude": 55.65452,
+      "longitude": 11.832013,
+      "capacity": 3.76
+    },
+    {
+      "turbineId": "T096",
+      "clusterId": 3,
+      "latitude": 55.767505,
+      "longitude": 11.478504,
+      "capacity": 3.86
+    },
+    {
+      "turbineId": "T355",
+      "clusterId": 4,
+      "latitude": 55.431739,
+      "longitude": 11.454868,
+      "capacity": 2.15
+    },
+    {
+      "turbineId": "T288",
+      "clusterId": 3,
+      "latitude": 55.339981,
+      "longitude": 12.220654,
+      "capacity": 3.66
+    },
+    {
+      "turbineId": "T142",
+      "clusterId": 3,
+      "latitude": 55.450606,
+      "longitude": 12.427198,
+      "capacity": 2.11
+    },
+    {
+      "turbineId": "T349",
+      "clusterId": 4,
+      "latitude": 55.805416,
+      "longitude": 11.833866,
+      "capacity": 3.12
+    },
+    {
+      "turbineId": "T161",
+      "clusterId": 3,
+      "latitude": 55.294186,
+      "longitude": 11.539106,
+      "capacity": 4.01
+    },
+    {
+      "turbineId": "T130",
+      "clusterId": 3,
+      "latitude": 55.560102,
+      "longitude": 11.796092,
+      "capacity": 2.17
+    },
+    {
+      "turbineId": "T353",
+      "clusterId": 4,
+      "latitude": 55.822096,
+      "longitude": 11.400586,
+      "capacity": 3.19
+    },
+    {
+      "turbineId": "T330",
+      "clusterId": 4,
+      "latitude": 55.839595,
+      "longitude": 11.688187,
+      "capacity": 2.17
+    },
+    {
+      "turbineId": "T299",
+      "clusterId": 3,
+      "latitude": 55.238775,
+      "longitude": 12.081603,
+      "capacity": 2.54
     },
     {
       "turbineId": "T387",
       "clusterId": 5,
-      "latitude": 54.995823,
-      "longitude": 11.582318,
+      "latitude": 55.158264,
+      "longitude": 12.022101,
+      "capacity": 3.32
+    },
+    {
+      "turbineId": "T001",
+      "clusterId": 0,
+      "latitude": 55.895512,
+      "longitude": 11.978658,
+      "capacity": 2.78
+    },
+    {
+      "turbineId": "T106",
+      "clusterId": 3,
+      "latitude": 55.230641,
+      "longitude": 11.827501,
+      "capacity": 3.48
+    },
+    {
+      "turbineId": "T143",
+      "clusterId": 3,
+      "latitude": 55.136806,
+      "longitude": 11.926607,
+      "capacity": 3.99
+    },
+    {
+      "turbineId": "T352",
+      "clusterId": 4,
+      "latitude": 55.21969,
+      "longitude": 11.896813,
+      "capacity": 2.8
+    },
+    {
+      "turbineId": "T354",
+      "clusterId": 4,
+      "latitude": 55.335312,
+      "longitude": 11.727024,
+      "capacity": 2.38
+    },
+    {
+      "turbineId": "T247",
+      "clusterId": 3,
+      "latitude": 55.178498,
+      "longitude": 12.44873,
+      "capacity": 4.29
+    },
+    {
+      "turbineId": "T164",
+      "clusterId": 3,
+      "latitude": 55.187932,
+      "longitude": 11.715951,
+      "capacity": 2.39
+    },
+    {
+      "turbineId": "T325",
+      "clusterId": 4,
+      "latitude": 55.406262,
+      "longitude": 11.674808,
+      "capacity": 3.59
+    },
+    {
+      "turbineId": "T316",
+      "clusterId": 4,
+      "latitude": 55.584928,
+      "longitude": 11.281791,
+      "capacity": 3.64
+    },
+    {
+      "turbineId": "T151",
+      "clusterId": 3,
+      "latitude": 55.11917,
+      "longitude": 11.736578,
+      "capacity": 2.2
+    },
+    {
+      "turbineId": "T377",
+      "clusterId": 4,
+      "latitude": 55.51327,
+      "longitude": 11.28638,
+      "capacity": 2.71
+    },
+    {
+      "turbineId": "T133",
+      "clusterId": 3,
+      "latitude": 55.532388,
+      "longitude": 12.202911,
+      "capacity": 4.49
+    },
+    {
+      "turbineId": "T203",
+      "clusterId": 3,
+      "latitude": 55.38939,
+      "longitude": 12.272267,
+      "capacity": 2.77
+    },
+    {
+      "turbineId": "T394",
+      "clusterId": 6,
+      "latitude": 55.150217,
+      "longitude": 11.83765,
+      "capacity": 3.09
+    },
+    {
+      "turbineId": "T258",
+      "clusterId": 3,
+      "latitude": 55.552928,
+      "longitude": 12.359352,
+      "capacity": 2.24
+    },
+    {
+      "turbineId": "T072",
+      "clusterId": 3,
+      "latitude": 55.812365,
+      "longitude": 11.604435,
+      "capacity": 2.69
+    },
+    {
+      "turbineId": "T235",
+      "clusterId": 3,
+      "latitude": 55.338017,
+      "longitude": 12.258283,
+      "capacity": 3.34
+    },
+    {
+      "turbineId": "T244",
+      "clusterId": 3,
+      "latitude": 55.091036,
+      "longitude": 12.064255,
+      "capacity": 2.06
+    },
+    {
+      "turbineId": "T005",
+      "clusterId": 0,
+      "latitude": 56.052951,
+      "longitude": 12.264998,
+      "capacity": 3.29
+    },
+    {
+      "turbineId": "T140",
+      "clusterId": 3,
+      "latitude": 55.25522,
+      "longitude": 11.678999,
+      "capacity": 3.74
+    },
+    {
+      "turbineId": "T314",
+      "clusterId": 4,
+      "latitude": 55.594564,
+      "longitude": 11.759249,
+      "capacity": 3.51
+    },
+    {
+      "turbineId": "T254",
+      "clusterId": 3,
+      "latitude": 55.570968,
+      "longitude": 11.51165,
+      "capacity": 2.35
+    },
+    {
+      "turbineId": "T296",
+      "clusterId": 3,
+      "latitude": 55.592975,
+      "longitude": 12.073983,
+      "capacity": 2.17
+    },
+    {
+      "turbineId": "T045",
+      "clusterId": 0,
+      "latitude": 55.979619,
+      "longitude": 12.269325,
+      "capacity": 4.31
+    },
+    {
+      "turbineId": "T107",
+      "clusterId": 3,
+      "latitude": 55.754195,
+      "longitude": 12.561922,
+      "capacity": 4.17
+    },
+    {
+      "turbineId": "T250",
+      "clusterId": 3,
+      "latitude": 55.423566,
+      "longitude": 11.662018,
+      "capacity": 4.06
+    },
+    {
+      "turbineId": "T187",
+      "clusterId": 3,
+      "latitude": 55.375718,
+      "longitude": 12.314811,
+      "capacity": 3.52
+    },
+    {
+      "turbineId": "T152",
+      "clusterId": 3,
+      "latitude": 55.741702,
+      "longitude": 11.974931,
+      "capacity": 4.18
+    },
+    {
+      "turbineId": "T160",
+      "clusterId": 3,
+      "latitude": 55.577376,
+      "longitude": 12.330686,
+      "capacity": 2.02
+    },
+    {
+      "turbineId": "T033",
+      "clusterId": 0,
+      "latitude": 55.892067,
+      "longitude": 12.350456,
+      "capacity": 3.68
+    },
+    {
+      "turbineId": "T356",
+      "clusterId": 4,
+      "latitude": 55.204579,
+      "longitude": 11.852397,
+      "capacity": 2.26
+    },
+    {
+      "turbineId": "T272",
+      "clusterId": 3,
+      "latitude": 55.788561,
+      "longitude": 12.400626,
+      "capacity": 4.38
+    },
+    {
+      "turbineId": "T162",
+      "clusterId": 3,
+      "latitude": 55.302868,
+      "longitude": 11.762472,
+      "capacity": 4.25
+    },
+    {
+      "turbineId": "T148",
+      "clusterId": 3,
+      "latitude": 55.680636,
+      "longitude": 11.572575,
+      "capacity": 3.41
+    },
+    {
+      "turbineId": "T058",
+      "clusterId": 1,
+      "latitude": 56.017841,
+      "longitude": 12.38605,
+      "capacity": 2.51
+    },
+    {
+      "turbineId": "T166",
+      "clusterId": 3,
+      "latitude": 55.503237,
+      "longitude": 11.92814,
+      "capacity": 2.86
+    },
+    {
+      "turbineId": "T055",
+      "clusterId": 1,
+      "latitude": 55.899546,
+      "longitude": 12.593988,
+      "capacity": 3.46
+    },
+    {
+      "turbineId": "T313",
+      "clusterId": 4,
+      "latitude": 55.239299,
+      "longitude": 11.756289,
+      "capacity": 2.49
+    },
+    {
+      "turbineId": "T023",
+      "clusterId": 0,
+      "latitude": 55.91249,
+      "longitude": 12.018289,
+      "capacity": 3.43
+    },
+    {
+      "turbineId": "T324",
+      "clusterId": 4,
+      "latitude": 55.656223,
+      "longitude": 11.249262,
+      "capacity": 3.41
+    },
+    {
+      "turbineId": "T124",
+      "clusterId": 3,
+      "latitude": 55.741452,
+      "longitude": 12.277717,
+      "capacity": 2.95
+    },
+    {
+      "turbineId": "T301",
+      "clusterId": 3,
+      "latitude": 55.624635,
+      "longitude": 11.58964,
+      "capacity": 2.82
+    },
+    {
+      "turbineId": "T397",
+      "clusterId": 6,
+      "latitude": 54.987765,
+      "longitude": 12.216795,
+      "capacity": 2.59
+    },
+    {
+      "turbineId": "T126",
+      "clusterId": 3,
+      "latitude": 55.398546,
+      "longitude": 11.91276,
+      "capacity": 3.8
+    },
+    {
+      "turbineId": "T339",
+      "clusterId": 4,
+      "latitude": 55.754097,
+      "longitude": 11.808827,
+      "capacity": 4.08
+    },
+    {
+      "turbineId": "T117",
+      "clusterId": 3,
+      "latitude": 55.529739,
+      "longitude": 11.742931,
+      "capacity": 4.42
+    },
+    {
+      "turbineId": "T116",
+      "clusterId": 3,
+      "latitude": 55.47891,
+      "longitude": 11.892975,
+      "capacity": 3.17
+    },
+    {
+      "turbineId": "T243",
+      "clusterId": 3,
+      "latitude": 55.257437,
+      "longitude": 11.656358,
+      "capacity": 2.58
+    },
+    {
+      "turbineId": "T104",
+      "clusterId": 3,
+      "latitude": 55.318049,
+      "longitude": 12.364647,
+      "capacity": 2.09
+    },
+    {
+      "turbineId": "T077",
+      "clusterId": 3,
+      "latitude": 55.285907,
+      "longitude": 12.011812,
+      "capacity": 4.05
+    },
+    {
+      "turbineId": "T371",
+      "clusterId": 4,
+      "latitude": 55.760261,
+      "longitude": 11.331771,
+      "capacity": 3.49
+    },
+    {
+      "turbineId": "T136",
+      "clusterId": 3,
+      "latitude": 55.212359,
+      "longitude": 11.547515,
+      "capacity": 2.25
+    },
+    {
+      "turbineId": "T061",
+      "clusterId": 2,
+      "latitude": 55.548736,
+      "longitude": 12.495694,
+      "capacity": 4.49
+    },
+    {
+      "turbineId": "T342",
+      "clusterId": 4,
+      "latitude": 55.699005,
+      "longitude": 11.762713,
+      "capacity": 4.14
+    },
+    {
+      "turbineId": "T291",
+      "clusterId": 3,
+      "latitude": 55.817251,
+      "longitude": 12.385601,
+      "capacity": 2.05
+    },
+    {
+      "turbineId": "T153",
+      "clusterId": 3,
+      "latitude": 55.705105,
+      "longitude": 12.217714,
+      "capacity": 3.55
+    },
+    {
+      "turbineId": "T369",
+      "clusterId": 4,
+      "latitude": 55.649494,
+      "longitude": 11.205765,
+      "capacity": 3.02
+    },
+    {
+      "turbineId": "T348",
+      "clusterId": 4,
+      "latitude": 55.771954,
+      "longitude": 11.630575,
+      "capacity": 4.24
+    },
+    {
+      "turbineId": "T016",
+      "clusterId": 0,
+      "latitude": 55.935476,
+      "longitude": 11.966461,
+      "capacity": 4.15
+    },
+    {
+      "turbineId": "T105",
+      "clusterId": 3,
+      "latitude": 55.257524,
+      "longitude": 11.477214,
+      "capacity": 3.26
+    },
+    {
+      "turbineId": "T059",
+      "clusterId": 1,
+      "latitude": 55.777606,
+      "longitude": 12.617766,
+      "capacity": 3.79
+    },
+    {
+      "turbineId": "T141",
+      "clusterId": 3,
+      "latitude": 55.099052,
+      "longitude": 11.731569,
+      "capacity": 4.26
+    },
+    {
+      "turbineId": "T295",
+      "clusterId": 3,
+      "latitude": 55.481385,
+      "longitude": 12.586337,
+      "capacity": 3.41
+    },
+    {
+      "turbineId": "T168",
+      "clusterId": 3,
+      "latitude": 55.785774,
+      "longitude": 12.121691,
+      "capacity": 3.6
+    },
+    {
+      "turbineId": "T100",
+      "clusterId": 3,
+      "latitude": 55.288108,
+      "longitude": 12.355481,
+      "capacity": 3.66
+    },
+    {
+      "turbineId": "T003",
+      "clusterId": 0,
+      "latitude": 55.871828,
+      "longitude": 12.229766,
+      "capacity": 3.62
+    },
+    {
+      "turbineId": "T386",
+      "clusterId": 5,
+      "latitude": 55.194468,
+      "longitude": 11.776381,
+      "capacity": 3.71
+    },
+    {
+      "turbineId": "T137",
+      "clusterId": 3,
+      "latitude": 55.482053,
+      "longitude": 12.177882,
+      "capacity": 3.58
+    },
+    {
+      "turbineId": "T335",
+      "clusterId": 4,
+      "latitude": 55.271314,
+      "longitude": 11.520073,
+      "capacity": 3.27
+    },
+    {
+      "turbineId": "T025",
+      "clusterId": 0,
+      "latitude": 56.055284,
+      "longitude": 12.132112,
+      "capacity": 3.96
+    },
+    {
+      "turbineId": "T015",
+      "clusterId": 0,
+      "latitude": 56.046987,
+      "longitude": 12.104701,
+      "capacity": 4.26
+    },
+    {
+      "turbineId": "T028",
+      "clusterId": 0,
+      "latitude": 55.818182,
+      "longitude": 11.821934,
+      "capacity": 2.24
+    },
+    {
+      "turbineId": "T065",
+      "clusterId": 3,
+      "latitude": 55.807942,
+      "longitude": 12.462994,
+      "capacity": 2.61
+    },
+    {
+      "turbineId": "T206",
+      "clusterId": 3,
+      "latitude": 55.682535,
+      "longitude": 12.427837,
+      "capacity": 3.83
+    },
+    {
+      "turbineId": "T319",
+      "clusterId": 4,
+      "latitude": 55.850236,
+      "longitude": 11.591088,
+      "capacity": 3.24
+    },
+    {
+      "turbineId": "T174",
+      "clusterId": 3,
+      "latitude": 55.663062,
+      "longitude": 12.078052,
+      "capacity": 3.21
+    },
+    {
+      "turbineId": "T081",
+      "clusterId": 3,
+      "latitude": 55.681473,
+      "longitude": 12.18268,
+      "capacity": 4.5
+    },
+    {
+      "turbineId": "T189",
+      "clusterId": 3,
+      "latitude": 55.500747,
+      "longitude": 12.599894,
+      "capacity": 4.26
+    },
+    {
+      "turbineId": "T134",
+      "clusterId": 3,
+      "latitude": 55.442691,
+      "longitude": 11.958484,
+      "capacity": 3.87
+    },
+    {
+      "turbineId": "T396",
+      "clusterId": 6,
+      "latitude": 55.162778,
+      "longitude": 11.801516,
+      "capacity": 3.69
+    },
+    {
+      "turbineId": "T201",
+      "clusterId": 3,
+      "latitude": 55.100029,
+      "longitude": 11.808751,
+      "capacity": 4.26
+    },
+    {
+      "turbineId": "T118",
+      "clusterId": 3,
+      "latitude": 55.632853,
+      "longitude": 11.451945,
+      "capacity": 2.85
+    },
+    {
+      "turbineId": "T038",
+      "clusterId": 0,
+      "latitude": 56.100255,
+      "longitude": 12.260047,
+      "capacity": 4.15
+    },
+    {
+      "turbineId": "T037",
+      "clusterId": 0,
+      "latitude": 56.035767,
+      "longitude": 11.916027,
+      "capacity": 2.85
+    },
+    {
+      "turbineId": "T231",
+      "clusterId": 3,
+      "latitude": 55.698488,
+      "longitude": 11.557011,
+      "capacity": 4.01
+    },
+    {
+      "turbineId": "T276",
+      "clusterId": 3,
+      "latitude": 55.176996,
+      "longitude": 12.24198,
+      "capacity": 4.38
+    },
+    {
+      "turbineId": "T159",
+      "clusterId": 3,
+      "latitude": 55.282169,
+      "longitude": 11.734326,
+      "capacity": 2.64
+    },
+    {
+      "turbineId": "T185",
+      "clusterId": 3,
+      "latitude": 55.375701,
+      "longitude": 11.693409,
+      "capacity": 3.86
+    },
+    {
+      "turbineId": "T044",
+      "clusterId": 0,
+      "latitude": 56.10165,
+      "longitude": 11.894268,
+      "capacity": 2.62
+    },
+    {
+      "turbineId": "T085",
+      "clusterId": 3,
+      "latitude": 55.50556,
+      "longitude": 12.409784,
+      "capacity": 2.86
+    },
+    {
+      "turbineId": "T172",
+      "clusterId": 3,
+      "latitude": 55.667711,
+      "longitude": 12.431465,
+      "capacity": 2.5
+    },
+    {
+      "turbineId": "T210",
+      "clusterId": 3,
+      "latitude": 55.369045,
+      "longitude": 12.031855,
+      "capacity": 2.44
+    },
+    {
+      "turbineId": "T087",
+      "clusterId": 3,
+      "latitude": 55.179408,
+      "longitude": 11.804497,
+      "capacity": 3.36
+    },
+    {
+      "turbineId": "T279",
+      "clusterId": 3,
+      "latitude": 55.416982,
+      "longitude": 11.82067,
+      "capacity": 3.71
+    },
+    {
+      "turbineId": "T011",
+      "clusterId": 0,
+      "latitude": 56.07592,
+      "longitude": 11.820784,
+      "capacity": 2.55
+    },
+    {
+      "turbineId": "T310",
+      "clusterId": 3,
+      "latitude": 55.731085,
+      "longitude": 12.577281,
+      "capacity": 3.65
+    },
+    {
+      "turbineId": "T251",
+      "clusterId": 3,
+      "latitude": 55.120074,
+      "longitude": 12.532223,
+      "capacity": 4.27
+    },
+    {
+      "turbineId": "T156",
+      "clusterId": 3,
+      "latitude": 55.473727,
+      "longitude": 12.405155,
+      "capacity": 2.36
+    },
+    {
+      "turbineId": "T256",
+      "clusterId": 3,
+      "latitude": 55.316992,
+      "longitude": 12.593006,
+      "capacity": 2.76
+    },
+    {
+      "turbineId": "T057",
+      "clusterId": 1,
+      "latitude": 55.984343,
+      "longitude": 12.420845,
+      "capacity": 4.34
+    },
+    {
+      "turbineId": "T286",
+      "clusterId": 3,
+      "latitude": 55.221562,
+      "longitude": 12.123129,
+      "capacity": 4.12
+    },
+    {
+      "turbineId": "T275",
+      "clusterId": 3,
+      "latitude": 55.523981,
+      "longitude": 11.781902,
+      "capacity": 3.11
+    },
+    {
+      "turbineId": "T357",
+      "clusterId": 4,
+      "latitude": 55.624741,
+      "longitude": 11.500588,
+      "capacity": 4.25
+    },
+    {
+      "turbineId": "T051",
+      "clusterId": 1,
+      "latitude": 55.738177,
+      "longitude": 12.520538,
+      "capacity": 2.62
+    },
+    {
+      "turbineId": "T125",
+      "clusterId": 3,
+      "latitude": 55.314251,
+      "longitude": 11.805677,
+      "capacity": 2.79
+    },
+    {
+      "turbineId": "T239",
+      "clusterId": 3,
+      "latitude": 55.24878,
+      "longitude": 12.006828,
+      "capacity": 3.46
+    },
+    {
+      "turbineId": "T054",
+      "clusterId": 1,
+      "latitude": 55.942707,
+      "longitude": 12.419659,
+      "capacity": 3.05
+    },
+    {
+      "turbineId": "T391",
+      "clusterId": 6,
+      "latitude": 54.996031,
+      "longitude": 11.88275,
+      "capacity": 3.93
+    },
+    {
+      "turbineId": "T066",
+      "clusterId": 3,
+      "latitude": 55.765831,
+      "longitude": 11.874956,
+      "capacity": 3.38
+    },
+    {
+      "turbineId": "T067",
+      "clusterId": 3,
+      "latitude": 55.203043,
+      "longitude": 12.408807,
+      "capacity": 2.96
+    },
+    {
+      "turbineId": "T030",
+      "clusterId": 0,
+      "latitude": 56.112673,
+      "longitude": 12.155722,
+      "capacity": 3.06
+    },
+    {
+      "turbineId": "T392",
+      "clusterId": 6,
+      "latitude": 54.948542,
+      "longitude": 12.320171,
+      "capacity": 4.02
+    },
+    {
+      "turbineId": "T215",
+      "clusterId": 3,
+      "latitude": 55.83307,
+      "longitude": 11.760595,
+      "capacity": 4.28
+    },
+    {
+      "turbineId": "T218",
+      "clusterId": 3,
+      "latitude": 55.6502,
+      "longitude": 11.758655,
+      "capacity": 4.06
+    },
+    {
+      "turbineId": "T260",
+      "clusterId": 3,
+      "latitude": 55.75093,
+      "longitude": 12.588536,
+      "capacity": 2.34
+    },
+    {
+      "turbineId": "T006",
+      "clusterId": 0,
+      "latitude": 55.872585,
+      "longitude": 12.304446,
+      "capacity": 2.3
+    },
+    {
+      "turbineId": "T029",
+      "clusterId": 0,
+      "latitude": 55.826053,
+      "longitude": 12.338427,
+      "capacity": 3.08
+    },
+    {
+      "turbineId": "T368",
+      "clusterId": 4,
+      "latitude": 55.234063,
+      "longitude": 11.496448,
+      "capacity": 2.71
+    },
+    {
+      "turbineId": "T334",
+      "clusterId": 4,
+      "latitude": 55.540124,
+      "longitude": 11.511992,
+      "capacity": 2.14
+    },
+    {
+      "turbineId": "T252",
+      "clusterId": 3,
+      "latitude": 55.452629,
+      "longitude": 12.395433,
+      "capacity": 2.76
+    },
+    {
+      "turbineId": "T248",
+      "clusterId": 3,
+      "latitude": 55.462885,
+      "longitude": 12.453628,
+      "capacity": 2.55
+    },
+    {
+      "turbineId": "T300",
+      "clusterId": 3,
+      "latitude": 55.803585,
+      "longitude": 11.953834,
+      "capacity": 4.17
+    },
+    {
+      "turbineId": "T135",
+      "clusterId": 3,
+      "latitude": 55.246687,
+      "longitude": 11.994164,
+      "capacity": 3.08
+    },
+    {
+      "turbineId": "T035",
+      "clusterId": 0,
+      "latitude": 56.147858,
+      "longitude": 12.014416,
+      "capacity": 2.25
+    },
+    {
+      "turbineId": "T336",
+      "clusterId": 4,
+      "latitude": 55.698831,
+      "longitude": 11.480726,
+      "capacity": 2.78
+    },
+    {
+      "turbineId": "T179",
+      "clusterId": 3,
+      "latitude": 55.208735,
+      "longitude": 11.987499,
+      "capacity": 2.74
+    },
+    {
+      "turbineId": "T388",
+      "clusterId": 5,
+      "latitude": 55.058354,
+      "longitude": 11.769506,
+      "capacity": 3.62
+    },
+    {
+      "turbineId": "T304",
+      "clusterId": 3,
+      "latitude": 55.509654,
+      "longitude": 12.085089,
+      "capacity": 2.01
+    },
+    {
+      "turbineId": "T217",
+      "clusterId": 3,
+      "latitude": 55.457128,
+      "longitude": 11.950911,
+      "capacity": 2.64
+    },
+    {
+      "turbineId": "T115",
+      "clusterId": 3,
+      "latitude": 55.324668,
+      "longitude": 12.14714,
+      "capacity": 2.39
+    },
+    {
+      "turbineId": "T039",
+      "clusterId": 0,
+      "latitude": 55.78024,
+      "longitude": 12.068499,
+      "capacity": 2.62
+    },
+    {
+      "turbineId": "T385",
+      "clusterId": 5,
+      "latitude": 55.072437,
+      "longitude": 12.035463,
+      "capacity": 3.85
+    },
+    {
+      "turbineId": "T233",
+      "clusterId": 3,
+      "latitude": 55.449143,
+      "longitude": 12.06056,
+      "capacity": 3.98
+    },
+    {
+      "turbineId": "T367",
+      "clusterId": 4,
+      "latitude": 55.564975,
+      "longitude": 11.700349,
+      "capacity": 2.93
+    },
+    {
+      "turbineId": "T360",
+      "clusterId": 4,
+      "latitude": 55.455672,
+      "longitude": 11.47754,
+      "capacity": 3.26
+    },
+    {
+      "turbineId": "T092",
+      "clusterId": 3,
+      "latitude": 55.769625,
+      "longitude": 11.917334,
+      "capacity": 3.43
+    },
+    {
+      "turbineId": "T175",
+      "clusterId": 3,
+      "latitude": 55.550537,
+      "longitude": 11.703619,
+      "capacity": 2.59
+    },
+    {
+      "turbineId": "T060",
+      "clusterId": 1,
+      "latitude": 55.929316,
+      "longitude": 12.455842,
+      "capacity": 2.6
+    },
+    {
+      "turbineId": "T017",
+      "clusterId": 0,
+      "latitude": 55.892131,
+      "longitude": 12.613623,
+      "capacity": 2.18
+    },
+    {
+      "turbineId": "T261",
+      "clusterId": 3,
+      "latitude": 55.318197,
+      "longitude": 12.164181,
+      "capacity": 3.13
+    },
+    {
+      "turbineId": "T277",
+      "clusterId": 3,
+      "latitude": 55.625792,
+      "longitude": 12.534078,
+      "capacity": 4.14
+    },
+    {
+      "turbineId": "T224",
+      "clusterId": 3,
+      "latitude": 55.221835,
+      "longitude": 11.693938,
+      "capacity": 4.41
+    },
+    {
+      "turbineId": "T155",
+      "clusterId": 3,
+      "latitude": 55.821031,
+      "longitude": 12.47514,
+      "capacity": 4.28
+    },
+    {
+      "turbineId": "T036",
+      "clusterId": 0,
+      "latitude": 55.990246,
+      "longitude": 11.939,
+      "capacity": 3.01
+    },
+    {
+      "turbineId": "T007",
+      "clusterId": 0,
+      "latitude": 56.119961,
+      "longitude": 11.785784,
+      "capacity": 2.56
+    },
+    {
+      "turbineId": "T329",
+      "clusterId": 4,
+      "latitude": 55.274384,
+      "longitude": 11.726335,
+      "capacity": 2.38
+    },
+    {
+      "turbineId": "T267",
+      "clusterId": 3,
+      "latitude": 55.434144,
+      "longitude": 12.240493,
+      "capacity": 2.39
+    },
+    {
+      "turbineId": "T249",
+      "clusterId": 3,
+      "latitude": 55.52777,
+      "longitude": 11.989806,
+      "capacity": 2.16
+    },
+    {
+      "turbineId": "T308",
+      "clusterId": 3,
+      "latitude": 55.468733,
+      "longitude": 12.274094,
+      "capacity": 2.63
+    },
+    {
+      "turbineId": "T351",
+      "clusterId": 4,
+      "latitude": 55.66018,
+      "longitude": 11.682024,
+      "capacity": 3.63
+    },
+    {
+      "turbineId": "T181",
+      "clusterId": 3,
+      "latitude": 55.101034,
+      "longitude": 11.903123,
+      "capacity": 3.65
+    },
+    {
+      "turbineId": "T340",
+      "clusterId": 4,
+      "latitude": 55.617278,
+      "longitude": 11.639849,
+      "capacity": 2.19
+    },
+    {
+      "turbineId": "T337",
+      "clusterId": 4,
+      "latitude": 55.314479,
+      "longitude": 11.892239,
+      "capacity": 3.13
+    },
+    {
+      "turbineId": "T344",
+      "clusterId": 4,
+      "latitude": 55.926299,
+      "longitude": 11.650308,
+      "capacity": 3.27
+    },
+    {
+      "turbineId": "T343",
+      "clusterId": 4,
+      "latitude": 55.851069,
+      "longitude": 11.740796,
+      "capacity": 3.54
+    },
+    {
+      "turbineId": "T338",
+      "clusterId": 4,
+      "latitude": 55.25035,
+      "longitude": 11.823829,
+      "capacity": 2.14
+    },
+    {
+      "turbineId": "T227",
+      "clusterId": 3,
+      "latitude": 55.819489,
+      "longitude": 11.548455,
+      "capacity": 4.15
+    },
+    {
+      "turbineId": "T157",
+      "clusterId": 3,
+      "latitude": 55.50734,
+      "longitude": 12.481789,
+      "capacity": 3.15
+    },
+    {
+      "turbineId": "T090",
+      "clusterId": 3,
+      "latitude": 55.24386,
+      "longitude": 11.736959,
+      "capacity": 2.47
+    },
+    {
+      "turbineId": "T211",
+      "clusterId": 3,
+      "latitude": 55.34616,
+      "longitude": 12.427012,
+      "capacity": 2.33
+    },
+    {
+      "turbineId": "T253",
+      "clusterId": 3,
+      "latitude": 55.392552,
+      "longitude": 11.535194,
+      "capacity": 3.02
+    },
+    {
+      "turbineId": "T196",
+      "clusterId": 3,
+      "latitude": 55.250012,
+      "longitude": 12.254385,
+      "capacity": 3.69
+    },
+    {
+      "turbineId": "T266",
+      "clusterId": 3,
+      "latitude": 55.307182,
+      "longitude": 11.716198,
+      "capacity": 3.86
+    },
+    {
+      "turbineId": "T358",
+      "clusterId": 4,
+      "latitude": 55.306406,
+      "longitude": 11.674879,
+      "capacity": 2.86
+    },
+    {
+      "turbineId": "T307",
+      "clusterId": 3,
+      "latitude": 55.171624,
+      "longitude": 12.406965,
+      "capacity": 2.32
+    },
+    {
+      "turbineId": "T366",
+      "clusterId": 4,
+      "latitude": 55.404875,
+      "longitude": 11.766207,
+      "capacity": 2.4
+    },
+    {
+      "turbineId": "T109",
+      "clusterId": 3,
+      "latitude": 55.391749,
+      "longitude": 12.578322,
+      "capacity": 3.1
+    },
+    {
+      "turbineId": "T183",
+      "clusterId": 3,
+      "latitude": 55.581345,
+      "longitude": 11.606054,
+      "capacity": 3.41
+    },
+    {
+      "turbineId": "T207",
+      "clusterId": 3,
+      "latitude": 55.548321,
+      "longitude": 11.589213,
+      "capacity": 2.23
+    },
+    {
+      "turbineId": "T345",
+      "clusterId": 4,
+      "latitude": 55.463735,
+      "longitude": 11.633439,
+      "capacity": 3.16
+    },
+    {
+      "turbineId": "T078",
+      "clusterId": 3,
+      "latitude": 55.786162,
+      "longitude": 12.423019,
+      "capacity": 2.71
+    },
+    {
+      "turbineId": "T321",
+      "clusterId": 4,
+      "latitude": 55.245619,
+      "longitude": 11.559236,
+      "capacity": 3.9
+    },
+    {
+      "turbineId": "T169",
+      "clusterId": 3,
+      "latitude": 55.622508,
+      "longitude": 12.435242,
+      "capacity": 3.06
+    },
+    {
+      "turbineId": "T083",
+      "clusterId": 3,
+      "latitude": 55.510311,
+      "longitude": 11.94184,
+      "capacity": 2.37
+    },
+    {
+      "turbineId": "T209",
+      "clusterId": 3,
+      "latitude": 55.350819,
+      "longitude": 11.942635,
+      "capacity": 3.87
+    },
+    {
+      "turbineId": "T376",
+      "clusterId": 4,
+      "latitude": 55.63005,
+      "longitude": 11.732124,
+      "capacity": 3.7
+    },
+    {
+      "turbineId": "T365",
+      "clusterId": 4,
+      "latitude": 55.564246,
+      "longitude": 11.531533,
+      "capacity": 3.31
+    },
+    {
+      "turbineId": "T361",
+      "clusterId": 4,
+      "latitude": 55.741197,
+      "longitude": 11.782627,
+      "capacity": 2.43
+    },
+    {
+      "turbineId": "T374",
+      "clusterId": 4,
+      "latitude": 55.80465,
+      "longitude": 11.254057,
+      "capacity": 2.16
+    },
+    {
+      "turbineId": "T359",
+      "clusterId": 4,
+      "latitude": 55.36135,
+      "longitude": 11.514874,
+      "capacity": 3.79
+    },
+    {
+      "turbineId": "T317",
+      "clusterId": 4,
+      "latitude": 55.577879,
+      "longitude": 11.909062,
+      "capacity": 2.44
+    },
+    {
+      "turbineId": "T326",
+      "clusterId": 4,
+      "latitude": 55.611267,
+      "longitude": 11.443889,
+      "capacity": 3.56
+    },
+    {
+      "turbineId": "T020",
+      "clusterId": 0,
+      "latitude": 55.848629,
+      "longitude": 12.117715,
+      "capacity": 2.54
+    },
+    {
+      "turbineId": "T108",
+      "clusterId": 3,
+      "latitude": 55.297717,
+      "longitude": 12.187704,
+      "capacity": 4.19
+    },
+    {
+      "turbineId": "T186",
+      "clusterId": 3,
+      "latitude": 55.33494,
+      "longitude": 12.325414,
+      "capacity": 2.12
+    },
+    {
+      "turbineId": "T021",
+      "clusterId": 0,
+      "latitude": 56.013919,
+      "longitude": 12.389307,
+      "capacity": 2.33
+    },
+    {
+      "turbineId": "T205",
+      "clusterId": 3,
+      "latitude": 55.569249,
+      "longitude": 11.567187,
+      "capacity": 3.45
+    },
+    {
+      "turbineId": "T322",
+      "clusterId": 4,
+      "latitude": 55.501213,
+      "longitude": 11.714573,
+      "capacity": 3.12
+    },
+    {
+      "turbineId": "T132",
+      "clusterId": 3,
+      "latitude": 55.303793,
+      "longitude": 11.944371,
+      "capacity": 4.3
+    },
+    {
+      "turbineId": "T341",
+      "clusterId": 4,
+      "latitude": 55.291673,
+      "longitude": 11.465199,
+      "capacity": 4.16
+    },
+    {
+      "turbineId": "T228",
+      "clusterId": 3,
+      "latitude": 55.641658,
+      "longitude": 12.011865,
+      "capacity": 3.81
+    },
+    {
+      "turbineId": "T265",
+      "clusterId": 3,
+      "latitude": 55.431393,
+      "longitude": 12.132883,
+      "capacity": 3.05
+    },
+    {
+      "turbineId": "T177",
+      "clusterId": 3,
+      "latitude": 55.102639,
+      "longitude": 11.836549,
+      "capacity": 3.44
+    },
+    {
+      "turbineId": "T127",
+      "clusterId": 3,
+      "latitude": 55.310611,
+      "longitude": 11.596381,
+      "capacity": 3.9
+    },
+    {
+      "turbineId": "T047",
+      "clusterId": 0,
+      "latitude": 55.957718,
+      "longitude": 11.9685,
+      "capacity": 4.15
+    },
+    {
+      "turbineId": "T086",
+      "clusterId": 3,
+      "latitude": 55.534357,
+      "longitude": 11.620308,
+      "capacity": 3.38
+    },
+    {
+      "turbineId": "T098",
+      "clusterId": 3,
+      "latitude": 55.806036,
+      "longitude": 12.37257,
+      "capacity": 4.03
+    },
+    {
+      "turbineId": "T112",
+      "clusterId": 3,
+      "latitude": 55.219283,
+      "longitude": 12.556914,
+      "capacity": 3.81
+    },
+    {
+      "turbineId": "T373",
+      "clusterId": 4,
+      "latitude": 55.575197,
+      "longitude": 11.825016,
+      "capacity": 3.62
+    },
+    {
+      "turbineId": "T379",
+      "clusterId": 4,
+      "latitude": 55.824019,
+      "longitude": 11.889827,
+      "capacity": 3.64
+    },
+    {
+      "turbineId": "T111",
+      "clusterId": 3,
+      "latitude": 55.169967,
+      "longitude": 12.565961,
+      "capacity": 3.14
+    },
+    {
+      "turbineId": "T094",
+      "clusterId": 3,
+      "latitude": 55.805307,
+      "longitude": 12.444297,
+      "capacity": 3.94
+    },
+    {
+      "turbineId": "T204",
+      "clusterId": 3,
+      "latitude": 55.139277,
+      "longitude": 12.244207,
+      "capacity": 3.1
+    },
+    {
+      "turbineId": "T031",
+      "clusterId": 0,
+      "latitude": 55.806682,
+      "longitude": 12.119641,
+      "capacity": 3.17
+    },
+    {
+      "turbineId": "T362",
+      "clusterId": 4,
+      "latitude": 55.625695,
+      "longitude": 11.263718,
+      "capacity": 2.62
+    },
+    {
+      "turbineId": "T084",
+      "clusterId": 3,
+      "latitude": 55.768823,
+      "longitude": 12.489518,
+      "capacity": 3.35
+    },
+    {
+      "turbineId": "T167",
+      "clusterId": 3,
+      "latitude": 55.241331,
+      "longitude": 11.933165,
+      "capacity": 3.47
+    },
+    {
+      "turbineId": "T221",
+      "clusterId": 3,
+      "latitude": 55.270213,
+      "longitude": 11.984415,
+      "capacity": 3.87
+    },
+    {
+      "turbineId": "T012",
+      "clusterId": 0,
+      "latitude": 55.875717,
+      "longitude": 12.037555,
+      "capacity": 2.18
+    },
+    {
+      "turbineId": "T285",
+      "clusterId": 3,
+      "latitude": 55.588177,
+      "longitude": 12.503484,
+      "capacity": 2.31
+    },
+    {
+      "turbineId": "T220",
+      "clusterId": 3,
+      "latitude": 55.147597,
+      "longitude": 12.463876,
+      "capacity": 4.02
+    },
+    {
+      "turbineId": "T091",
+      "clusterId": 3,
+      "latitude": 55.160179,
+      "longitude": 12.347134,
+      "capacity": 3.74
+    },
+    {
+      "turbineId": "T302",
+      "clusterId": 3,
+      "latitude": 55.839055,
+      "longitude": 12.150202,
+      "capacity": 2.37
+    },
+    {
+      "turbineId": "T048",
+      "clusterId": 0,
+      "latitude": 56.006504,
+      "longitude": 12.429639,
+      "capacity": 3.38
+    },
+    {
+      "turbineId": "T165",
+      "clusterId": 3,
+      "latitude": 55.621281,
+      "longitude": 12.262382,
+      "capacity": 3.1
+    },
+    {
+      "turbineId": "T192",
+      "clusterId": 3,
+      "latitude": 55.668302,
+      "longitude": 12.542053,
+      "capacity": 3.52
+    },
+    {
+      "turbineId": "T375",
+      "clusterId": 4,
+      "latitude": 55.846583,
+      "longitude": 11.631819,
+      "capacity": 2.24
+    },
+    {
+      "turbineId": "T064",
+      "clusterId": 2,
+      "latitude": 55.567486,
+      "longitude": 12.649274,
+      "capacity": 2.66
+    },
+    {
+      "turbineId": "T318",
+      "clusterId": 4,
+      "latitude": 55.232524,
+      "longitude": 11.78742,
+      "capacity": 3.93
+    },
+    {
+      "turbineId": "T370",
+      "clusterId": 4,
+      "latitude": 55.426065,
+      "longitude": 11.358425,
+      "capacity": 2.85
+    },
+    {
+      "turbineId": "T208",
+      "clusterId": 3,
+      "latitude": 55.847399,
+      "longitude": 12.350031,
+      "capacity": 2.74
+    },
+    {
+      "turbineId": "T101",
+      "clusterId": 3,
+      "latitude": 55.164315,
+      "longitude": 12.452992,
+      "capacity": 4.05
+    },
+    {
+      "turbineId": "T327",
+      "clusterId": 4,
+      "latitude": 55.945971,
+      "longitude": 11.597918,
+      "capacity": 4.16
+    },
+    {
+      "turbineId": "T079",
+      "clusterId": 3,
+      "latitude": 55.151993,
+      "longitude": 11.937112,
+      "capacity": 2.75
+    },
+    {
+      "turbineId": "T238",
+      "clusterId": 3,
+      "latitude": 55.674508,
+      "longitude": 11.662922,
+      "capacity": 3.68
+    },
+    {
+      "turbineId": "T080",
+      "clusterId": 3,
+      "latitude": 55.295811,
+      "longitude": 11.454078,
+      "capacity": 3.47
+    },
+    {
+      "turbineId": "T284",
+      "clusterId": 3,
+      "latitude": 55.290219,
+      "longitude": 11.496266,
+      "capacity": 2.47
+    },
+    {
+      "turbineId": "T226",
+      "clusterId": 3,
+      "latitude": 55.76665,
+      "longitude": 12.256361,
+      "capacity": 4.42
+    },
+    {
+      "turbineId": "T380",
+      "clusterId": 4,
+      "latitude": 55.266097,
+      "longitude": 11.833363,
+      "capacity": 4.27
+    },
+    {
+      "turbineId": "T289",
+      "clusterId": 3,
+      "latitude": 55.749032,
+      "longitude": 11.829274,
+      "capacity": 3.6
+    },
+    {
+      "turbineId": "T103",
+      "clusterId": 3,
+      "latitude": 55.716938,
+      "longitude": 11.979349,
+      "capacity": 3.24
+    },
+    {
+      "turbineId": "T150",
+      "clusterId": 3,
+      "latitude": 55.827214,
+      "longitude": 12.045651,
+      "capacity": 2.42
+    },
+    {
+      "turbineId": "T018",
+      "clusterId": 0,
+      "latitude": 56.052175,
+      "longitude": 12.322127,
+      "capacity": 2.6
+    },
+    {
+      "turbineId": "T312",
+      "clusterId": 4,
+      "latitude": 55.442829,
+      "longitude": 11.330685,
+      "capacity": 2.37
+    },
+    {
+      "turbineId": "T323",
+      "clusterId": 4,
+      "latitude": 55.567702,
+      "longitude": 11.882276,
+      "capacity": 4.31
+    },
+    {
+      "turbineId": "T069",
+      "clusterId": 3,
+      "latitude": 55.850042,
+      "longitude": 12.202073,
+      "capacity": 3.27
+    },
+    {
+      "turbineId": "T093",
+      "clusterId": 3,
+      "latitude": 55.564116,
+      "longitude": 11.627736,
+      "capacity": 2.58
+    },
+    {
+      "turbineId": "T245",
+      "clusterId": 3,
+      "latitude": 55.293963,
+      "longitude": 12.570439,
+      "capacity": 4.21
+    },
+    {
+      "turbineId": "T237",
+      "clusterId": 3,
+      "latitude": 55.173253,
+      "longitude": 12.066244,
+      "capacity": 3.68
+    },
+    {
+      "turbineId": "T089",
+      "clusterId": 3,
+      "latitude": 55.751348,
+      "longitude": 12.483763,
+      "capacity": 2.8
+    },
+    {
+      "turbineId": "T173",
+      "clusterId": 3,
+      "latitude": 55.823676,
+      "longitude": 11.931874,
+      "capacity": 2.96
+    },
+    {
+      "turbineId": "T298",
+      "clusterId": 3,
+      "latitude": 55.362188,
+      "longitude": 12.31991,
+      "capacity": 2.52
+    },
+    {
+      "turbineId": "T281",
+      "clusterId": 3,
+      "latitude": 55.830291,
+      "longitude": 12.411352,
+      "capacity": 4.44
+    },
+    {
+      "turbineId": "T068",
+      "clusterId": 3,
+      "latitude": 55.628761,
+      "longitude": 12.153429,
+      "capacity": 4.3
+    },
+    {
+      "turbineId": "T170",
+      "clusterId": 3,
+      "latitude": 55.677164,
+      "longitude": 11.887438,
+      "capacity": 2.63
+    },
+    {
+      "turbineId": "T053",
+      "clusterId": 1,
+      "latitude": 55.963062,
+      "longitude": 12.554754,
+      "capacity": 3.55
+    },
+    {
+      "turbineId": "T297",
+      "clusterId": 3,
+      "latitude": 55.402333,
+      "longitude": 11.66572,
+      "capacity": 3.91
+    },
+    {
+      "turbineId": "T176",
+      "clusterId": 3,
+      "latitude": 55.251149,
+      "longitude": 11.951211,
+      "capacity": 3.43
+    },
+    {
+      "turbineId": "T290",
+      "clusterId": 3,
+      "latitude": 55.621065,
+      "longitude": 11.78145,
+      "capacity": 3.49
+    },
+    {
+      "turbineId": "T182",
+      "clusterId": 3,
+      "latitude": 55.520226,
+      "longitude": 11.481167,
+      "capacity": 2.69
+    },
+    {
+      "turbineId": "T306",
+      "clusterId": 3,
+      "latitude": 55.792085,
+      "longitude": 11.980665,
+      "capacity": 2.36
+    },
+    {
+      "turbineId": "T129",
+      "clusterId": 3,
+      "latitude": 55.608308,
+      "longitude": 12.488226,
+      "capacity": 2.09
+    },
+    {
+      "turbineId": "T346",
+      "clusterId": 4,
+      "latitude": 55.359554,
+      "longitude": 11.692552,
+      "capacity": 3.39
+    },
+    {
+      "turbineId": "T198",
+      "clusterId": 3,
+      "latitude": 55.553653,
+      "longitude": 12.310114,
+      "capacity": 3.65
+    },
+    {
+      "turbineId": "T022",
+      "clusterId": 0,
+      "latitude": 55.8762,
+      "longitude": 11.808569,
+      "capacity": 4.34
+    },
+    {
+      "turbineId": "T333",
+      "clusterId": 4,
+      "latitude": 55.37137,
+      "longitude": 11.454199,
+      "capacity": 2.69
+    },
+    {
+      "turbineId": "T199",
+      "clusterId": 3,
+      "latitude": 55.169336,
+      "longitude": 12.392196,
+      "capacity": 4.1
+    },
+    {
+      "turbineId": "T010",
+      "clusterId": 0,
+      "latitude": 55.938984,
+      "longitude": 12.271316,
+      "capacity": 2.58
+    },
+    {
+      "turbineId": "T372",
+      "clusterId": 4,
+      "latitude": 55.485156,
+      "longitude": 11.727753,
+      "capacity": 3.97
+    },
+    {
+      "turbineId": "T287",
+      "clusterId": 3,
+      "latitude": 55.151169,
+      "longitude": 11.850155,
+      "capacity": 3.14
+    },
+    {
+      "turbineId": "T259",
+      "clusterId": 3,
+      "latitude": 55.256036,
+      "longitude": 12.050958,
+      "capacity": 4.22
+    },
+    {
+      "turbineId": "T278",
+      "clusterId": 3,
+      "latitude": 55.470368,
+      "longitude": 12.017865,
+      "capacity": 2.25
+    },
+    {
+      "turbineId": "T269",
+      "clusterId": 3,
+      "latitude": 55.567545,
+      "longitude": 12.21036,
+      "capacity": 2.25
+    },
+    {
+      "turbineId": "T034",
+      "clusterId": 0,
+      "latitude": 55.826852,
+      "longitude": 12.166941,
+      "capacity": 4.46
+    },
+    {
+      "turbineId": "T184",
+      "clusterId": 3,
+      "latitude": 55.440125,
+      "longitude": 11.507827,
+      "capacity": 3.71
+    },
+    {
+      "turbineId": "T268",
+      "clusterId": 3,
+      "latitude": 55.800651,
+      "longitude": 12.356002,
+      "capacity": 3.04
+    },
+    {
+      "turbineId": "T043",
+      "clusterId": 0,
+      "latitude": 55.809069,
+      "longitude": 12.456936,
+      "capacity": 2.7
+    },
+    {
+      "turbineId": "T095",
+      "clusterId": 3,
+      "latitude": 55.841441,
+      "longitude": 12.382387,
+      "capacity": 2.11
+    },
+    {
+      "turbineId": "T213",
+      "clusterId": 3,
+      "latitude": 55.829414,
+      "longitude": 12.180923,
+      "capacity": 4.43
+    },
+    {
+      "turbineId": "T389",
+      "clusterId": 5,
+      "latitude": 55.227082,
+      "longitude": 11.965933,
+      "capacity": 3.06
+    },
+    {
+      "turbineId": "T303",
+      "clusterId": 3,
+      "latitude": 55.266652,
+      "longitude": 11.632135,
+      "capacity": 4.25
+    },
+    {
+      "turbineId": "T180",
+      "clusterId": 3,
+      "latitude": 55.17955,
+      "longitude": 12.165596,
+      "capacity": 4.44
+    },
+    {
+      "turbineId": "T000",
+      "clusterId": 0,
+      "latitude": 56.048559,
+      "longitude": 11.80226,
+      "capacity": 2.5
+    },
+    {
+      "turbineId": "T219",
+      "clusterId": 3,
+      "latitude": 55.744336,
+      "longitude": 12.405341,
+      "capacity": 3.2
+    },
+    {
+      "turbineId": "T149",
+      "clusterId": 3,
+      "latitude": 55.411614,
+      "longitude": 11.65227,
+      "capacity": 3.98
+    },
+    {
+      "turbineId": "T073",
+      "clusterId": 3,
+      "latitude": 55.170034,
+      "longitude": 11.573091,
+      "capacity": 3.98
+    },
+    {
+      "turbineId": "T123",
+      "clusterId": 3,
+      "latitude": 55.337556,
+      "longitude": 11.811003,
+      "capacity": 4.15
+    },
+    {
+      "turbineId": "T294",
+      "clusterId": 3,
+      "latitude": 55.836744,
+      "longitude": 11.914801,
+      "capacity": 2.31
+    },
+    {
+      "turbineId": "T263",
+      "clusterId": 3,
+      "latitude": 55.2446,
+      "longitude": 12.209492,
+      "capacity": 3.86
+    },
+    {
+      "turbineId": "T008",
+      "clusterId": 0,
+      "latitude": 55.922905,
+      "longitude": 11.918377,
+      "capacity": 2.85
+    },
+    {
+      "turbineId": "T274",
+      "clusterId": 3,
+      "latitude": 55.319937,
+      "longitude": 12.311301,
+      "capacity": 2.93
+    },
+    {
+      "turbineId": "T305",
+      "clusterId": 3,
+      "latitude": 55.152703,
+      "longitude": 12.591096,
+      "capacity": 4.15
+    },
+    {
+      "turbineId": "T255",
+      "clusterId": 3,
+      "latitude": 55.196374,
+      "longitude": 12.097266,
+      "capacity": 4.37
+    },
+    {
+      "turbineId": "T320",
+      "clusterId": 4,
+      "latitude": 55.543532,
+      "longitude": 11.92302,
+      "capacity": 3.89
+    },
+    {
+      "turbineId": "T032",
+      "clusterId": 0,
+      "latitude": 55.784822,
+      "longitude": 12.421442,
+      "capacity": 3.82
+    },
+    {
+      "turbineId": "T234",
+      "clusterId": 3,
+      "latitude": 55.411893,
+      "longitude": 12.307826,
+      "capacity": 2.03
+    },
+    {
+      "turbineId": "T382",
+      "clusterId": 4,
+      "latitude": 55.592972,
+      "longitude": 11.496825,
+      "capacity": 2.83
+    },
+    {
+      "turbineId": "T395",
+      "clusterId": 6,
+      "latitude": 55.12668,
+      "longitude": 12.256018,
+      "capacity": 3.03
+    },
+    {
+      "turbineId": "T024",
+      "clusterId": 0,
+      "latitude": 55.868613,
+      "longitude": 12.61919,
+      "capacity": 3.18
+    },
+    {
+      "turbineId": "T062",
+      "clusterId": 2,
+      "latitude": 55.519999,
+      "longitude": 12.328603,
+      "capacity": 2.18
+    },
+    {
+      "turbineId": "T154",
+      "clusterId": 3,
+      "latitude": 55.850556,
+      "longitude": 12.13477,
+      "capacity": 2.6
+    },
+    {
+      "turbineId": "T121",
+      "clusterId": 3,
+      "latitude": 55.60309,
+      "longitude": 11.868855,
+      "capacity": 4.13
+    },
+    {
+      "turbineId": "T147",
+      "clusterId": 3,
+      "latitude": 55.084325,
+      "longitude": 12.313609,
+      "capacity": 3.33
+    },
+    {
+      "turbineId": "T056",
+      "clusterId": 1,
+      "latitude": 55.951872,
+      "longitude": 12.375724,
+      "capacity": 3.31
+    },
+    {
+      "turbineId": "T216",
+      "clusterId": 3,
+      "latitude": 55.710395,
+      "longitude": 12.068899,
+      "capacity": 4.08
+    },
+    {
+      "turbineId": "T399",
+      "clusterId": 6,
+      "latitude": 54.931919,
+      "longitude": 12.253867,
+      "capacity": 2.71
+    },
+    {
+      "turbineId": "T311",
+      "clusterId": 4,
+      "latitude": 55.792488,
+      "longitude": 11.378449,
+      "capacity": 2.59
+    },
+    {
+      "turbineId": "T280",
+      "clusterId": 3,
+      "latitude": 55.275287,
+      "longitude": 11.555026,
+      "capacity": 3.36
+    },
+    {
+      "turbineId": "T076",
+      "clusterId": 3,
+      "latitude": 55.238806,
+      "longitude": 12.179374,
+      "capacity": 3.27
+    },
+    {
+      "turbineId": "T110",
+      "clusterId": 3,
+      "latitude": 55.498248,
+      "longitude": 12.530123,
+      "capacity": 3.31
+    },
+    {
+      "turbineId": "T131",
+      "clusterId": 3,
+      "latitude": 55.507391,
+      "longitude": 11.450467,
+      "capacity": 3.58
+    },
+    {
+      "turbineId": "T009",
+      "clusterId": 0,
+      "latitude": 55.818953,
+      "longitude": 11.866078,
+      "capacity": 3.47
+    },
+    {
+      "turbineId": "T040",
+      "clusterId": 0,
+      "latitude": 55.78818,
+      "longitude": 12.606898,
+      "capacity": 2.48
+    },
+    {
+      "turbineId": "T002",
+      "clusterId": 0,
+      "latitude": 55.957207,
+      "longitude": 11.80652,
+      "capacity": 4.49
+    },
+    {
+      "turbineId": "T315",
+      "clusterId": 4,
+      "latitude": 55.557184,
+      "longitude": 11.783513,
+      "capacity": 3.9
+    },
+    {
+      "turbineId": "T398",
+      "clusterId": 6,
+      "latitude": 54.921936,
+      "longitude": 11.99473,
+      "capacity": 3.11
+    },
+    {
+      "turbineId": "T393",
+      "clusterId": 6,
+      "latitude": 55.035607,
+      "longitude": 11.90913,
+      "capacity": 2.41
+    },
+    {
+      "turbineId": "T071",
+      "clusterId": 3,
+      "latitude": 55.313515,
+      "longitude": 12.212897,
+      "capacity": 4.16
+    },
+    {
+      "turbineId": "T241",
+      "clusterId": 3,
+      "latitude": 55.489217,
+      "longitude": 11.775449,
+      "capacity": 4.35
+    },
+    {
+      "turbineId": "T146",
+      "clusterId": 3,
+      "latitude": 55.270308,
+      "longitude": 12.204467,
+      "capacity": 2.36
+    },
+    {
+      "turbineId": "T019",
+      "clusterId": 0,
+      "latitude": 55.851878,
+      "longitude": 12.428923,
+      "capacity": 3.67
+    },
+    {
+      "turbineId": "T378",
+      "clusterId": 4,
+      "latitude": 55.800992,
+      "longitude": 11.663594,
+      "capacity": 3.81
+    },
+    {
+      "turbineId": "T074",
+      "clusterId": 3,
+      "latitude": 55.511514,
+      "longitude": 11.7632,
+      "capacity": 3.04
+    },
+    {
+      "turbineId": "T171",
+      "clusterId": 3,
+      "latitude": 55.084599,
+      "longitude": 11.854523,
+      "capacity": 4.11
+    },
+    {
+      "turbineId": "T332",
+      "clusterId": 4,
+      "latitude": 55.361267,
+      "longitude": 11.538666,
+      "capacity": 2.76
+    },
+    {
+      "turbineId": "T050",
+      "clusterId": 1,
+      "latitude": 55.786262,
+      "longitude": 12.530468,
+      "capacity": 4.23
+    },
+    {
+      "turbineId": "T163",
+      "clusterId": 3,
+      "latitude": 55.329373,
+      "longitude": 12.071175,
+      "capacity": 3.69
+    },
+    {
+      "turbineId": "T014",
+      "clusterId": 0,
+      "latitude": 55.822421,
+      "longitude": 12.027397,
       "capacity": 2.57
     },
     {
       "turbineId": "T114",
       "clusterId": 3,
-      "latitude": 55.356539,
-      "longitude": 12.293487,
-      "capacity": 3.17
-    },
-    {
-      "turbineId": "T018",
-      "clusterId": 0,
-      "latitude": 56.101434,
-      "longitude": 13.157301,
-      "capacity": 2.91
-    },
-    {
-      "turbineId": "T095",
-      "clusterId": 3,
-      "latitude": 55.601489,
-      "longitude": 14.056613,
-      "capacity": 2.05
-    },
-    {
-      "turbineId": "T135",
-      "clusterId": 3,
-      "latitude": 55.051905,
-      "longitude": 13.57326,
-      "capacity": 2.71
-    },
-    {
-      "turbineId": "T263",
-      "clusterId": 3,
-      "latitude": 55.356824,
-      "longitude": 12.234021,
-      "capacity": 3.68
-    },
-    {
-      "turbineId": "T266",
-      "clusterId": 3,
-      "latitude": 55.353173,
-      "longitude": 12.009471,
-      "capacity": 2.31
-    },
-    {
-      "turbineId": "T144",
-      "clusterId": 3,
-      "latitude": 55.450051,
-      "longitude": 12.75066,
-      "capacity": 2.3
-    },
-    {
-      "turbineId": "T116",
-      "clusterId": 3,
-      "latitude": 55.430677,
-      "longitude": 12.30876,
-      "capacity": 3.24
-    },
-    {
-      "turbineId": "T389",
-      "clusterId": 5,
-      "latitude": 54.899045,
-      "longitude": 12.092061,
-      "capacity": 2.84
-    },
-    {
-      "turbineId": "T023",
-      "clusterId": 0,
-      "latitude": 56.38397,
-      "longitude": 13.480136,
-      "capacity": 2.07
-    },
-    {
-      "turbineId": "T102",
-      "clusterId": 3,
-      "latitude": 55.019091,
-      "longitude": 12.797464,
-      "capacity": 2.74
-    },
-    {
-      "turbineId": "T097",
-      "clusterId": 3,
-      "latitude": 55.310133,
-      "longitude": 13.19557,
-      "capacity": 3.43
-    },
-    {
-      "turbineId": "T098",
-      "clusterId": 3,
-      "latitude": 55.394321,
-      "longitude": 13.081018,
-      "capacity": 3.98
-    },
-    {
-      "turbineId": "T275",
-      "clusterId": 3,
-      "latitude": 54.820191,
-      "longitude": 13.856488,
-      "capacity": 3.29
-    },
-    {
-      "turbineId": "T365",
-      "clusterId": 4,
-      "latitude": 55.565213,
-      "longitude": 12.36457,
-      "capacity": 3.8
-    },
-    {
-      "turbineId": "T256",
-      "clusterId": 3,
-      "latitude": 54.867748,
-      "longitude": 14.015282,
-      "capacity": 3.96
-    },
-    {
-      "turbineId": "T288",
-      "clusterId": 3,
-      "latitude": 55.482507,
-      "longitude": 12.611868,
-      "capacity": 3.7
-    },
-    {
-      "turbineId": "T085",
-      "clusterId": 3,
-      "latitude": 55.349973,
-      "longitude": 13.150313,
-      "capacity": 2.35
-    },
-    {
-      "turbineId": "T362",
-      "clusterId": 4,
-      "latitude": 55.966383,
-      "longitude": 11.866981,
-      "capacity": 2.64
-    },
-    {
-      "turbineId": "T384",
-      "clusterId": 4,
-      "latitude": 55.490796,
-      "longitude": 11.928785,
-      "capacity": 2.46
-    },
-    {
-      "turbineId": "T087",
-      "clusterId": 3,
-      "latitude": 55.563859,
-      "longitude": 13.65917,
-      "capacity": 2.02
-    },
-    {
-      "turbineId": "T155",
-      "clusterId": 3,
-      "latitude": 55.501368,
-      "longitude": 12.853633,
-      "capacity": 2.26
-    },
-    {
-      "turbineId": "T195",
-      "clusterId": 3,
-      "latitude": 55.516351,
-      "longitude": 13.406911,
-      "capacity": 2.79
-    },
-    {
-      "turbineId": "T250",
-      "clusterId": 3,
-      "latitude": 55.078952,
-      "longitude": 11.935653,
-      "capacity": 3.57
-    },
-    {
-      "turbineId": "T091",
-      "clusterId": 3,
-      "latitude": 55.526977,
-      "longitude": 13.310112,
-      "capacity": 2.51
-    },
-    {
-      "turbineId": "T228",
-      "clusterId": 3,
-      "latitude": 55.586319,
-      "longitude": 12.466517,
-      "capacity": 4.02
-    },
-    {
-      "turbineId": "T279",
-      "clusterId": 3,
-      "latitude": 55.454002,
-      "longitude": 12.488259,
-      "capacity": 3.27
-    },
-    {
-      "turbineId": "T047",
-      "clusterId": 0,
-      "latitude": 56.266582,
-      "longitude": 12.407987,
-      "capacity": 2.37
-    },
-    {
-      "turbineId": "T347",
-      "clusterId": 4,
-      "latitude": 55.35816,
-      "longitude": 11.935893,
-      "capacity": 4.31
-    },
-    {
-      "turbineId": "T015",
-      "clusterId": 0,
-      "latitude": 55.884751,
-      "longitude": 13.275786,
-      "capacity": 4.03
-    },
-    {
-      "turbineId": "T009",
-      "clusterId": 0,
-      "latitude": 55.870276,
-      "longitude": 12.09086,
-      "capacity": 2.43
-    },
-    {
-      "turbineId": "T143",
-      "clusterId": 3,
-      "latitude": 55.674044,
-      "longitude": 12.913677,
-      "capacity": 2.74
-    },
-    {
-      "turbineId": "T057",
-      "clusterId": 0,
-      "latitude": 55.50965,
-      "longitude": 13.632564,
-      "capacity": 3.13
-    },
-    {
-      "turbineId": "T129",
-      "clusterId": 3,
-      "latitude": 54.891951,
-      "longitude": 12.945046,
-      "capacity": 3.62
-    },
-    {
-      "turbineId": "T292",
-      "clusterId": 3,
-      "latitude": 55.147443,
-      "longitude": 12.1834,
-      "capacity": 4.26
-    },
-    {
-      "turbineId": "T031",
-      "clusterId": 0,
-      "latitude": 56.056893,
-      "longitude": 13.061344,
-      "capacity": 3.99
-    },
-    {
-      "turbineId": "T393",
-      "clusterId": 6,
-      "latitude": 54.86721,
-      "longitude": 12.591385,
-      "capacity": 4.36
-    },
-    {
-      "turbineId": "T162",
-      "clusterId": 3,
-      "latitude": 55.287749,
-      "longitude": 13.782777,
-      "capacity": 3.18
-    },
-    {
-      "turbineId": "T121",
-      "clusterId": 3,
-      "latitude": 55.308905,
-      "longitude": 13.143669,
-      "capacity": 2.42
-    },
-    {
-      "turbineId": "T049",
-      "clusterId": 0,
-      "latitude": 55.713317,
-      "longitude": 14.418881,
-      "capacity": 4.01
-    },
-    {
-      "turbineId": "T363",
-      "clusterId": 4,
-      "latitude": 56.093158,
-      "longitude": 12.381514,
-      "capacity": 2.49
-    },
-    {
-      "turbineId": "T230",
-      "clusterId": 3,
-      "latitude": 54.999451,
-      "longitude": 12.198457,
-      "capacity": 2.81
-    },
-    {
-      "turbineId": "T056",
-      "clusterId": 0,
-      "latitude": 55.752649,
-      "longitude": 13.686842,
-      "capacity": 3.4
-    },
-    {
-      "turbineId": "T172",
-      "clusterId": 3,
-      "latitude": 55.276921,
-      "longitude": 12.274853,
-      "capacity": 4.12
-    },
-    {
-      "turbineId": "T194",
-      "clusterId": 3,
-      "latitude": 55.061551,
-      "longitude": 12.701029,
-      "capacity": 4.11
-    },
-    {
-      "turbineId": "T310",
-      "clusterId": 3,
-      "latitude": 55.222383,
-      "longitude": 13.919873,
-      "capacity": 3.94
-    },
-    {
-      "turbineId": "T251",
-      "clusterId": 3,
-      "latitude": 55.468091,
-      "longitude": 12.598738,
-      "capacity": 2.89
-    },
-    {
-      "turbineId": "T247",
-      "clusterId": 3,
-      "latitude": 55.277355,
-      "longitude": 13.24835,
-      "capacity": 2.13
-    },
-    {
-      "turbineId": "T379",
-      "clusterId": 4,
-      "latitude": 56.003918,
-      "longitude": 12.407052,
-      "capacity": 3.22
-    },
-    {
-      "turbineId": "T304",
-      "clusterId": 3,
-      "latitude": 55.330518,
-      "longitude": 13.061945,
-      "capacity": 3.93
-    },
-    {
-      "turbineId": "T277",
-      "clusterId": 3,
-      "latitude": 55.248116,
-      "longitude": 13.135863,
-      "capacity": 2.87
-    },
-    {
-      "turbineId": "T006",
-      "clusterId": 0,
-      "latitude": 56.050758,
-      "longitude": 12.3226,
-      "capacity": 4.23
-    },
-    {
-      "turbineId": "T048",
-      "clusterId": 0,
-      "latitude": 56.024949,
-      "longitude": 13.330308,
-      "capacity": 2.03
-    },
-    {
-      "turbineId": "T016",
-      "clusterId": 0,
-      "latitude": 56.046715,
-      "longitude": 13.258084,
-      "capacity": 4.26
-    },
-    {
-      "turbineId": "T187",
-      "clusterId": 3,
-      "latitude": 55.116912,
-      "longitude": 13.267571,
-      "capacity": 3.61
-    },
-    {
-      "turbineId": "T065",
-      "clusterId": 3,
-      "latitude": 54.842149,
-      "longitude": 12.466248,
-      "capacity": 2.98
-    },
-    {
-      "turbineId": "T357",
-      "clusterId": 4,
-      "latitude": 55.209515,
-      "longitude": 11.793425,
-      "capacity": 2.98
-    },
-    {
-      "turbineId": "T007",
-      "clusterId": 0,
-      "latitude": 56.180197,
-      "longitude": 12.923081,
-      "capacity": 3.97
-    },
-    {
-      "turbineId": "T295",
-      "clusterId": 3,
-      "latitude": 54.867891,
-      "longitude": 12.321518,
-      "capacity": 4.44
-    },
-    {
-      "turbineId": "T281",
-      "clusterId": 3,
-      "latitude": 55.011151,
-      "longitude": 12.059546,
-      "capacity": 3.73
-    },
-    {
-      "turbineId": "T227",
-      "clusterId": 3,
-      "latitude": 55.608323,
-      "longitude": 12.011917,
-      "capacity": 4.28
-    },
-    {
-      "turbineId": "T285",
-      "clusterId": 3,
-      "latitude": 55.685398,
-      "longitude": 13.284448,
-      "capacity": 4.46
-    },
-    {
-      "turbineId": "T317",
-      "clusterId": 4,
-      "latitude": 55.616863,
-      "longitude": 11.936051,
-      "capacity": 4.08
-    },
-    {
-      "turbineId": "T063",
-      "clusterId": 2,
-      "latitude": 55.341018,
-      "longitude": 15.114011,
-      "capacity": 4.05
-    },
-    {
-      "turbineId": "T117",
-      "clusterId": 3,
-      "latitude": 54.901098,
-      "longitude": 12.429961,
-      "capacity": 3.24
-    },
-    {
-      "turbineId": "T206",
-      "clusterId": 3,
-      "latitude": 55.67605,
-      "longitude": 12.958035,
-      "capacity": 3.14
-    },
-    {
-      "turbineId": "T397",
-      "clusterId": 6,
-      "latitude": 54.848833,
-      "longitude": 12.386616,
-      "capacity": 2.22
-    },
-    {
-      "turbineId": "T240",
-      "clusterId": 3,
-      "latitude": 55.228096,
-      "longitude": 14.048243,
-      "capacity": 2.97
-    },
-    {
-      "turbineId": "T099",
-      "clusterId": 3,
-      "latitude": 54.997444,
-      "longitude": 13.036159,
-      "capacity": 3.54
-    },
-    {
-      "turbineId": "T126",
-      "clusterId": 3,
-      "latitude": 55.504193,
-      "longitude": 12.060992,
-      "capacity": 2.23
-    },
-    {
-      "turbineId": "T272",
-      "clusterId": 3,
-      "latitude": 55.536964,
-      "longitude": 12.917364,
-      "capacity": 3.12
-    },
-    {
-      "turbineId": "T043",
-      "clusterId": 0,
-      "latitude": 56.254848,
-      "longitude": 12.952102,
-      "capacity": 4.38
-    },
-    {
-      "turbineId": "T254",
-      "clusterId": 3,
-      "latitude": 55.699199,
-      "longitude": 11.824325,
-      "capacity": 2.4
-    },
-    {
-      "turbineId": "T028",
-      "clusterId": 0,
-      "latitude": 56.368456,
-      "longitude": 13.399107,
-      "capacity": 2.52
-    },
-    {
-      "turbineId": "T261",
-      "clusterId": 3,
-      "latitude": 55.108996,
-      "longitude": 12.912577,
-      "capacity": 3.86
-    },
-    {
-      "turbineId": "T327",
-      "clusterId": 4,
-      "latitude": 56.032888,
-      "longitude": 11.831383,
-      "capacity": 3.41
-    },
-    {
-      "turbineId": "T033",
-      "clusterId": 0,
-      "latitude": 55.854102,
-      "longitude": 13.405883,
-      "capacity": 2.64
-    },
-    {
-      "turbineId": "T136",
-      "clusterId": 3,
-      "latitude": 54.852492,
-      "longitude": 14.11278,
-      "capacity": 4.08
-    },
-    {
-      "turbineId": "T013",
-      "clusterId": 0,
-      "latitude": 56.242876,
-      "longitude": 13.259018,
-      "capacity": 2.27
-    },
-    {
-      "turbineId": "T255",
-      "clusterId": 3,
-      "latitude": 55.647885,
-      "longitude": 13.825855,
-      "capacity": 2.2
-    },
-    {
-      "turbineId": "T163",
-      "clusterId": 3,
-      "latitude": 55.370519,
-      "longitude": 12.08164,
-      "capacity": 2.24
-    },
-    {
-      "turbineId": "T080",
-      "clusterId": 3,
-      "latitude": 54.924495,
-      "longitude": 12.648478,
-      "capacity": 3.4
-    },
-    {
-      "turbineId": "T059",
-      "clusterId": 0,
-      "latitude": 56.063165,
-      "longitude": 13.88587,
-      "capacity": 2.46
-    },
-    {
-      "turbineId": "T344",
-      "clusterId": 4,
-      "latitude": 55.290667,
-      "longitude": 12.156526,
-      "capacity": 3.84
-    },
-    {
-      "turbineId": "T339",
-      "clusterId": 4,
-      "latitude": 55.547869,
-      "longitude": 11.966269,
-      "capacity": 4.37
-    },
-    {
-      "turbineId": "T394",
-      "clusterId": 6,
-      "latitude": 54.790332,
-      "longitude": 12.485812,
-      "capacity": 4.07
-    },
-    {
-      "turbineId": "T146",
-      "clusterId": 3,
-      "latitude": 54.865852,
-      "longitude": 14.186517,
-      "capacity": 2.04
-    },
-    {
-      "turbineId": "T176",
-      "clusterId": 3,
-      "latitude": 54.980992,
-      "longitude": 12.146548,
-      "capacity": 2.73
-    },
-    {
-      "turbineId": "T299",
-      "clusterId": 3,
-      "latitude": 54.97444,
-      "longitude": 14.177264,
-      "capacity": 2.47
-    },
-    {
-      "turbineId": "T130",
-      "clusterId": 3,
-      "latitude": 55.549861,
-      "longitude": 12.307532,
-      "capacity": 2.71
-    },
-    {
-      "turbineId": "T140",
-      "clusterId": 3,
-      "latitude": 55.469221,
-      "longitude": 13.649441,
-      "capacity": 2.06
-    },
-    {
-      "turbineId": "T042",
-      "clusterId": 0,
-      "latitude": 55.815878,
-      "longitude": 12.758313,
-      "capacity": 3.99
-    },
-    {
-      "turbineId": "T366",
-      "clusterId": 4,
-      "latitude": 56.000695,
-      "longitude": 12.438589,
-      "capacity": 4.08
-    },
-    {
-      "turbineId": "T003",
-      "clusterId": 0,
-      "latitude": 56.37347,
-      "longitude": 12.027261,
-      "capacity": 3.42
-    },
-    {
-      "turbineId": "T075",
-      "clusterId": 3,
-      "latitude": 54.887479,
-      "longitude": 11.806341,
-      "capacity": 2.35
-    },
-    {
-      "turbineId": "T012",
-      "clusterId": 0,
-      "latitude": 56.249076,
-      "longitude": 13.170252,
-      "capacity": 4.45
-    },
-    {
-      "turbineId": "T083",
-      "clusterId": 3,
-      "latitude": 54.934942,
-      "longitude": 13.57114,
-      "capacity": 3.69
-    },
-    {
-      "turbineId": "T222",
-      "clusterId": 3,
-      "latitude": 54.900592,
-      "longitude": 12.548277,
-      "capacity": 4.25
-    },
-    {
-      "turbineId": "T377",
-      "clusterId": 4,
-      "latitude": 55.339294,
-      "longitude": 11.594636,
-      "capacity": 4.39
-    },
-    {
-      "turbineId": "T368",
-      "clusterId": 4,
-      "latitude": 55.175159,
-      "longitude": 12.16791,
-      "capacity": 3.85
-    },
-    {
-      "turbineId": "T105",
-      "clusterId": 3,
-      "latitude": 55.317383,
-      "longitude": 12.022579,
-      "capacity": 2.43
-    },
-    {
-      "turbineId": "T137",
-      "clusterId": 3,
-      "latitude": 55.054977,
-      "longitude": 13.35455,
-      "capacity": 2.51
-    },
-    {
-      "turbineId": "T262",
-      "clusterId": 3,
-      "latitude": 55.137954,
-      "longitude": 12.858249,
-      "capacity": 3.58
-    },
-    {
-      "turbineId": "T314",
-      "clusterId": 4,
-      "latitude": 55.887944,
-      "longitude": 11.877584,
-      "capacity": 3.74
-    },
-    {
-      "turbineId": "T092",
-      "clusterId": 3,
-      "latitude": 55.416026,
-      "longitude": 12.910037,
-      "capacity": 2.14
-    },
-    {
-      "turbineId": "T214",
-      "clusterId": 3,
-      "latitude": 54.862263,
-      "longitude": 12.391927,
-      "capacity": 3.58
-    },
-    {
-      "turbineId": "T248",
-      "clusterId": 3,
-      "latitude": 55.653599,
-      "longitude": 13.970338,
-      "capacity": 3.73
-    },
-    {
-      "turbineId": "T257",
-      "clusterId": 3,
-      "latitude": 55.177219,
-      "longitude": 13.211103,
-      "capacity": 3.35
-    },
-    {
-      "turbineId": "T313",
-      "clusterId": 4,
-      "latitude": 55.763962,
-      "longitude": 11.504963,
+      "latitude": 55.41896,
+      "longitude": 12.287827,
       "capacity": 3.64
-    },
-    {
-      "turbineId": "T239",
-      "clusterId": 3,
-      "latitude": 55.351915,
-      "longitude": 13.477043,
-      "capacity": 4.13
-    },
-    {
-      "turbineId": "T166",
-      "clusterId": 3,
-      "latitude": 55.094865,
-      "longitude": 13.590866,
-      "capacity": 2.26
-    },
-    {
-      "turbineId": "T386",
-      "clusterId": 5,
-      "latitude": 54.84787,
-      "longitude": 12.196586,
-      "capacity": 2.75
-    },
-    {
-      "turbineId": "T106",
-      "clusterId": 3,
-      "latitude": 55.200709,
-      "longitude": 13.406377,
-      "capacity": 4.23
-    },
-    {
-      "turbineId": "T151",
-      "clusterId": 3,
-      "latitude": 55.016316,
-      "longitude": 12.154293,
-      "capacity": 2.16
-    },
-    {
-      "turbineId": "T224",
-      "clusterId": 3,
-      "latitude": 54.838902,
-      "longitude": 12.290596,
-      "capacity": 3.58
-    },
-    {
-      "turbineId": "T355",
-      "clusterId": 4,
-      "latitude": 55.62728,
-      "longitude": 12.011678,
-      "capacity": 4.08
-    },
-    {
-      "turbineId": "T311",
-      "clusterId": 4,
-      "latitude": 56.097534,
-      "longitude": 11.642168,
-      "capacity": 2.96
-    },
-    {
-      "turbineId": "T283",
-      "clusterId": 3,
-      "latitude": 54.853739,
-      "longitude": 12.14822,
-      "capacity": 4.45
-    },
-    {
-      "turbineId": "T064",
-      "clusterId": 2,
-      "latitude": 55.476756,
-      "longitude": 14.773258,
-      "capacity": 2.97
-    },
-    {
-      "turbineId": "T086",
-      "clusterId": 3,
-      "latitude": 54.907295,
-      "longitude": 11.938279,
-      "capacity": 2.27
-    },
-    {
-      "turbineId": "T242",
-      "clusterId": 3,
-      "latitude": 55.544782,
-      "longitude": 12.846623,
-      "capacity": 3.43
-    },
-    {
-      "turbineId": "T011",
-      "clusterId": 0,
-      "latitude": 56.067412,
-      "longitude": 13.392057,
-      "capacity": 4.25
-    },
-    {
-      "turbineId": "T202",
-      "clusterId": 3,
-      "latitude": 54.874451,
-      "longitude": 13.622756,
-      "capacity": 2.81
-    },
-    {
-      "turbineId": "T030",
-      "clusterId": 0,
-      "latitude": 56.18501,
-      "longitude": 12.891284,
-      "capacity": 3.32
-    },
-    {
-      "turbineId": "T246",
-      "clusterId": 3,
-      "latitude": 54.96868,
-      "longitude": 12.957895,
-      "capacity": 2.62
-    },
-    {
-      "turbineId": "T290",
-      "clusterId": 3,
-      "latitude": 55.012212,
-      "longitude": 13.588601,
-      "capacity": 3.83
-    },
-    {
-      "turbineId": "T002",
-      "clusterId": 0,
-      "latitude": 55.984123,
-      "longitude": 12.013819,
-      "capacity": 2.6
-    },
-    {
-      "turbineId": "T177",
-      "clusterId": 3,
-      "latitude": 54.883099,
-      "longitude": 12.171596,
-      "capacity": 3.19
-    },
-    {
-      "turbineId": "T359",
-      "clusterId": 4,
-      "latitude": 55.849744,
-      "longitude": 11.557463,
-      "capacity": 2.85
-    },
-    {
-      "turbineId": "T212",
-      "clusterId": 3,
-      "latitude": 55.379443,
-      "longitude": 13.255044,
-      "capacity": 3.58
-    },
-    {
-      "turbineId": "T019",
-      "clusterId": 0,
-      "latitude": 55.92354,
-      "longitude": 13.155961,
-      "capacity": 3.05
-    },
-    {
-      "turbineId": "T335",
-      "clusterId": 4,
-      "latitude": 55.917634,
-      "longitude": 12.164359,
-      "capacity": 2.52
-    },
-    {
-      "turbineId": "T367",
-      "clusterId": 4,
-      "latitude": 55.477114,
-      "longitude": 11.549629,
-      "capacity": 2.3
-    },
-    {
-      "turbineId": "T205",
-      "clusterId": 3,
-      "latitude": 55.078234,
-      "longitude": 13.4509,
-      "capacity": 3.56
-    },
-    {
-      "turbineId": "T104",
-      "clusterId": 3,
-      "latitude": 54.820108,
-      "longitude": 12.277815,
-      "capacity": 4.21
-    },
-    {
-      "turbineId": "T196",
-      "clusterId": 3,
-      "latitude": 55.05599,
-      "longitude": 12.795376,
-      "capacity": 3.92
-    },
-    {
-      "turbineId": "T305",
-      "clusterId": 3,
-      "latitude": 55.305979,
-      "longitude": 12.406619,
-      "capacity": 2.86
-    },
-    {
-      "turbineId": "T233",
-      "clusterId": 3,
-      "latitude": 55.299885,
-      "longitude": 13.695625,
-      "capacity": 2.52
-    },
-    {
-      "turbineId": "T044",
-      "clusterId": 0,
-      "latitude": 56.031802,
-      "longitude": 13.013536,
-      "capacity": 3.32
-    },
-    {
-      "turbineId": "T258",
-      "clusterId": 3,
-      "latitude": 54.800379,
-      "longitude": 13.436958,
-      "capacity": 3.31
-    },
-    {
-      "turbineId": "T371",
-      "clusterId": 4,
-      "latitude": 55.673822,
-      "longitude": 11.947112,
-      "capacity": 2.77
-    },
-    {
-      "turbineId": "T268",
-      "clusterId": 3,
-      "latitude": 55.022998,
-      "longitude": 12.285845,
-      "capacity": 2.8
-    },
-    {
-      "turbineId": "T024",
-      "clusterId": 0,
-      "latitude": 55.920254,
-      "longitude": 13.318193,
-      "capacity": 4.49
-    },
-    {
-      "turbineId": "T273",
-      "clusterId": 3,
-      "latitude": 55.325987,
-      "longitude": 12.303758,
-      "capacity": 3.8
-    },
-    {
-      "turbineId": "T342",
-      "clusterId": 4,
-      "latitude": 56.096658,
-      "longitude": 12.154053,
-      "capacity": 2.84
-    },
-    {
-      "turbineId": "T267",
-      "clusterId": 3,
-      "latitude": 54.95098,
-      "longitude": 14.110574,
-      "capacity": 3.94
-    },
-    {
-      "turbineId": "T041",
-      "clusterId": 0,
-      "latitude": 56.179118,
-      "longitude": 13.487506,
-      "capacity": 4.15
-    },
-    {
-      "turbineId": "T324",
-      "clusterId": 4,
-      "latitude": 55.95212,
-      "longitude": 12.263714,
-      "capacity": 2.95
-    },
-    {
-      "turbineId": "T188",
-      "clusterId": 3,
-      "latitude": 55.489332,
-      "longitude": 13.566346,
-      "capacity": 2.47
-    },
-    {
-      "turbineId": "T309",
-      "clusterId": 3,
-      "latitude": 55.357208,
-      "longitude": 12.74871,
-      "capacity": 3.22
-    },
-    {
-      "turbineId": "T109",
-      "clusterId": 3,
-      "latitude": 55.265516,
-      "longitude": 13.923942,
-      "capacity": 4.31
-    },
-    {
-      "turbineId": "T274",
-      "clusterId": 3,
-      "latitude": 54.972206,
-      "longitude": 13.000003,
-      "capacity": 2.61
-    },
-    {
-      "turbineId": "T032",
-      "clusterId": 0,
-      "latitude": 56.086114,
-      "longitude": 12.891842,
-      "capacity": 4.33
-    },
-    {
-      "turbineId": "T333",
-      "clusterId": 4,
-      "latitude": 56.046912,
-      "longitude": 11.977113,
-      "capacity": 4.47
-    },
-    {
-      "turbineId": "T260",
-      "clusterId": 3,
-      "latitude": 55.488453,
-      "longitude": 13.556117,
-      "capacity": 2.54
     },
     {
       "turbineId": "T350",
       "clusterId": 4,
-      "latitude": 55.240136,
-      "longitude": 12.474858,
-      "capacity": 2.92
+      "latitude": 55.93091,
+      "longitude": 11.81382,
+      "capacity": 4.02
     },
     {
-      "turbineId": "T069",
+      "turbineId": "T041",
+      "clusterId": 0,
+      "latitude": 55.909156,
+      "longitude": 11.831553,
+      "capacity": 3.12
+    },
+    {
+      "turbineId": "T197",
       "clusterId": 3,
-      "latitude": 54.925978,
-      "longitude": 13.016493,
-      "capacity": 2.39
+      "latitude": 55.678181,
+      "longitude": 11.642958,
+      "capacity": 3.8
     },
     {
-      "turbineId": "T038",
-      "clusterId": 0,
-      "latitude": 56.354354,
-      "longitude": 12.1236,
-      "capacity": 3.15
-    },
-    {
-      "turbineId": "T170",
+      "turbineId": "T120",
       "clusterId": 3,
-      "latitude": 55.033228,
-      "longitude": 13.640148,
-      "capacity": 3.37
+      "latitude": 55.641155,
+      "longitude": 12.303243,
+      "capacity": 3.62
     },
     {
-      "turbineId": "T052",
-      "clusterId": 0,
-      "latitude": 56.29761,
-      "longitude": 14.643071,
-      "capacity": 3.67
+      "turbineId": "T191",
+      "clusterId": 3,
+      "latitude": 55.689362,
+      "longitude": 12.199518,
+      "capacity": 4.0
     },
     {
-      "turbineId": "T001",
-      "clusterId": 0,
-      "latitude": 56.074067,
-      "longitude": 12.851505,
-      "capacity": 4.23
-    },
-    {
-      "turbineId": "T312",
+      "turbineId": "T384",
       "clusterId": 4,
-      "latitude": 55.994287,
-      "longitude": 11.651006,
-      "capacity": 3.58
+      "latitude": 55.814211,
+      "longitude": 11.811278,
+      "capacity": 2.35
     },
     {
-      "turbineId": "T150",
+      "turbineId": "T202",
       "clusterId": 3,
-      "latitude": 54.9475,
-      "longitude": 12.203295,
-      "capacity": 4.18
-    },
-    {
-      "turbineId": "T226",
-      "clusterId": 3,
-      "latitude": 55.476625,
-      "longitude": 13.993092,
-      "capacity": 2.74
-    },
-    {
-      "turbineId": "T139",
-      "clusterId": 3,
-      "latitude": 55.363952,
-      "longitude": 13.186903,
-      "capacity": 2.54
-    },
-    {
-      "turbineId": "T100",
-      "clusterId": 3,
-      "latitude": 55.651161,
-      "longitude": 13.979103,
-      "capacity": 4.3
+      "latitude": 55.608331,
+      "longitude": 12.551899,
+      "capacity": 3.62
     },
     {
       "turbineId": "T027",
       "clusterId": 0,
-      "latitude": 56.156715,
-      "longitude": 13.173437,
-      "capacity": 2.74
+      "latitude": 56.015775,
+      "longitude": 12.01384,
+      "capacity": 2.48
     },
     {
-      "turbineId": "T215",
+      "turbineId": "T212",
       "clusterId": 3,
-      "latitude": 55.285382,
-      "longitude": 12.898245,
-      "capacity": 2.93
+      "latitude": 55.721418,
+      "longitude": 11.57137,
+      "capacity": 3.35
     },
     {
-      "turbineId": "T128",
-      "clusterId": 3,
-      "latitude": 55.560387,
-      "longitude": 13.628072,
-      "capacity": 3.7
-    },
-    {
-      "turbineId": "T022",
+      "turbineId": "T013",
       "clusterId": 0,
-      "latitude": 55.953006,
-      "longitude": 12.645059,
-      "capacity": 3.17
+      "latitude": 55.813513,
+      "longitude": 11.987184,
+      "capacity": 3.58
     },
     {
-      "turbineId": "T303",
+      "turbineId": "T178",
       "clusterId": 3,
-      "latitude": 55.523618,
-      "longitude": 12.716315,
-      "capacity": 3.82
+      "latitude": 55.609731,
+      "longitude": 11.914964,
+      "capacity": 4.48
     },
     {
-      "turbineId": "T341",
+      "turbineId": "T363",
       "clusterId": 4,
-      "latitude": 55.801756,
-      "longitude": 12.094395,
-      "capacity": 2.86
-    },
-    {
-      "turbineId": "T315",
-      "clusterId": 4,
-      "latitude": 56.007146,
-      "longitude": 12.194401,
-      "capacity": 2.84
-    },
-    {
-      "turbineId": "T122",
-      "clusterId": 3,
-      "latitude": 54.923023,
-      "longitude": 13.77215,
-      "capacity": 3.9
-    },
-    {
-      "turbineId": "T319",
-      "clusterId": 4,
-      "latitude": 55.926876,
-      "longitude": 11.824723,
-      "capacity": 4.09
-    },
-    {
-      "turbineId": "T259",
-      "clusterId": 3,
-      "latitude": 55.342548,
-      "longitude": 12.779825,
-      "capacity": 4.25
-    },
-    {
-      "turbineId": "T186",
-      "clusterId": 3,
-      "latitude": 55.558107,
-      "longitude": 12.645172,
-      "capacity": 4.23
-    },
-    {
-      "turbineId": "T298",
-      "clusterId": 3,
-      "latitude": 55.247561,
-      "longitude": 12.336456,
-      "capacity": 4.45
+      "latitude": 55.663379,
+      "longitude": 11.705477,
+      "capacity": 3.09
     },
     {
       "turbineId": "T113",
       "clusterId": 3,
-      "latitude": 54.814336,
-      "longitude": 13.17331,
-      "capacity": 3.51
-    },
-    {
-      "turbineId": "T153",
-      "clusterId": 3,
-      "latitude": 55.178759,
-      "longitude": 12.625981,
-      "capacity": 3.05
-    },
-    {
-      "turbineId": "T225",
-      "clusterId": 3,
-      "latitude": 55.332386,
-      "longitude": 12.637728,
-      "capacity": 4.47
-    },
-    {
-      "turbineId": "T271",
-      "clusterId": 3,
-      "latitude": 55.619518,
-      "longitude": 12.618873,
-      "capacity": 2.56
-    },
-    {
-      "turbineId": "T399",
-      "clusterId": 6,
-      "latitude": 54.651999,
-      "longitude": 13.98728,
-      "capacity": 2.85
-    },
-    {
-      "turbineId": "T062",
-      "clusterId": 2,
-      "latitude": 55.469435,
-      "longitude": 14.787877,
-      "capacity": 2.85
-    },
-    {
-      "turbineId": "T180",
-      "clusterId": 3,
-      "latitude": 55.207024,
-      "longitude": 13.157745,
-      "capacity": 2.65
-    },
-    {
-      "turbineId": "T190",
-      "clusterId": 3,
-      "latitude": 55.080033,
-      "longitude": 13.922794,
-      "capacity": 4.08
-    },
-    {
-      "turbineId": "T167",
-      "clusterId": 3,
-      "latitude": 55.319967,
-      "longitude": 12.622704,
-      "capacity": 3.28
-    },
-    {
-      "turbineId": "T356",
-      "clusterId": 4,
-      "latitude": 55.814681,
-      "longitude": 11.531484,
-      "capacity": 3.18
-    },
-    {
-      "turbineId": "T236",
-      "clusterId": 3,
-      "latitude": 55.605476,
-      "longitude": 13.033348,
+      "latitude": 55.287064,
+      "longitude": 11.574663,
       "capacity": 3.02
     },
     {
-      "turbineId": "T060",
+      "turbineId": "T046",
       "clusterId": 0,
-      "latitude": 56.229359,
-      "longitude": 14.554084,
-      "capacity": 2.02
+      "latitude": 55.891324,
+      "longitude": 12.556465,
+      "capacity": 3.11
     },
     {
-      "turbineId": "T189",
+      "turbineId": "T223",
       "clusterId": 3,
-      "latitude": 55.462173,
-      "longitude": 12.31102,
-      "capacity": 3.1
+      "latitude": 55.102386,
+      "longitude": 12.428596,
+      "capacity": 2.29
     },
     {
-      "turbineId": "T370",
+      "turbineId": "T075",
+      "clusterId": 3,
+      "latitude": 55.551767,
+      "longitude": 12.275254,
+      "capacity": 4.34
+    },
+    {
+      "turbineId": "T262",
+      "clusterId": 3,
+      "latitude": 55.81912,
+      "longitude": 11.688956,
+      "capacity": 3.68
+    },
+    {
+      "turbineId": "T230",
+      "clusterId": 3,
+      "latitude": 55.583804,
+      "longitude": 12.014445,
+      "capacity": 4.42
+    },
+    {
+      "turbineId": "T139",
+      "clusterId": 3,
+      "latitude": 55.665888,
+      "longitude": 12.223715,
+      "capacity": 3.11
+    },
+    {
+      "turbineId": "T381",
       "clusterId": 4,
-      "latitude": 55.830687,
-      "longitude": 11.787438,
-      "capacity": 4.33
+      "latitude": 55.382487,
+      "longitude": 11.641653,
+      "capacity": 4.18
     },
     {
-      "turbineId": "T158",
-      "clusterId": 3,
-      "latitude": 55.131941,
-      "longitude": 12.072608,
-      "capacity": 2.33
-    },
-    {
-      "turbineId": "T264",
-      "clusterId": 3,
-      "latitude": 55.29323,
-      "longitude": 13.957138,
-      "capacity": 2.05
-    },
-    {
-      "turbineId": "T253",
-      "clusterId": 3,
-      "latitude": 55.374553,
-      "longitude": 12.796337,
-      "capacity": 2.92
-    },
-    {
-      "turbineId": "T378",
-      "clusterId": 4,
-      "latitude": 55.286082,
-      "longitude": 11.687246,
-      "capacity": 4.02
-    },
-    {
-      "turbineId": "T034",
+      "turbineId": "T042",
       "clusterId": 0,
-      "latitude": 55.946736,
-      "longitude": 12.53027,
-      "capacity": 3.42
-    },
-    {
-      "turbineId": "T134",
-      "clusterId": 3,
-      "latitude": 55.497713,
-      "longitude": 13.156871,
-      "capacity": 2.49
-    },
-    {
-      "turbineId": "T192",
-      "clusterId": 3,
-      "latitude": 55.217622,
-      "longitude": 13.210359,
-      "capacity": 4.41
-    },
-    {
-      "turbineId": "T127",
-      "clusterId": 3,
-      "latitude": 55.339506,
-      "longitude": 12.659063,
-      "capacity": 3.27
-    },
-    {
-      "turbineId": "T238",
-      "clusterId": 3,
-      "latitude": 55.456224,
-      "longitude": 12.476692,
-      "capacity": 2.33
-    },
-    {
-      "turbineId": "T071",
-      "clusterId": 3,
-      "latitude": 55.131911,
-      "longitude": 13.604565,
-      "capacity": 2.63
+      "latitude": 55.815974,
+      "longitude": 12.212532,
+      "capacity": 3.05
     },
     {
       "turbineId": "T145",
       "clusterId": 3,
-      "latitude": 54.906455,
-      "longitude": 13.5126,
-      "capacity": 2.06
+      "latitude": 55.623156,
+      "longitude": 12.018534,
+      "capacity": 2.94
     },
     {
-      "turbineId": "T179",
+      "turbineId": "T063",
+      "clusterId": 2,
+      "latitude": 55.655559,
+      "longitude": 12.214095,
+      "capacity": 2.53
+    },
+    {
+      "turbineId": "T264",
       "clusterId": 3,
-      "latitude": 54.907385,
-      "longitude": 12.137669,
-      "capacity": 3.75
-    },
-    {
-      "turbineId": "T124",
-      "clusterId": 3,
-      "latitude": 55.59841,
-      "longitude": 12.988752,
-      "capacity": 3.47
-    },
-    {
-      "turbineId": "T182",
-      "clusterId": 3,
-      "latitude": 55.517981,
-      "longitude": 13.760064,
-      "capacity": 2.18
-    },
-    {
-      "turbineId": "T026",
-      "clusterId": 0,
-      "latitude": 56.036907,
-      "longitude": 13.432111,
-      "capacity": 3.43
-    },
-    {
-      "turbineId": "T074",
-      "clusterId": 3,
-      "latitude": 55.460565,
-      "longitude": 13.028254,
-      "capacity": 2.39
-    },
-    {
-      "turbineId": "T221",
-      "clusterId": 3,
-      "latitude": 54.992066,
-      "longitude": 13.921715,
-      "capacity": 3.67
-    },
-    {
-      "turbineId": "T338",
-      "clusterId": 4,
-      "latitude": 55.328188,
-      "longitude": 12.151888,
-      "capacity": 2.77
-    },
-    {
-      "turbineId": "T352",
-      "clusterId": 4,
-      "latitude": 56.089329,
-      "longitude": 12.420194,
-      "capacity": 2.39
-    },
-    {
-      "turbineId": "T054",
-      "clusterId": 0,
-      "latitude": 55.646556,
-      "longitude": 14.272864,
-      "capacity": 2.69
-    },
-    {
-      "turbineId": "T184",
-      "clusterId": 3,
-      "latitude": 55.126276,
-      "longitude": 13.610695,
-      "capacity": 2.88
-    },
-    {
-      "turbineId": "T232",
-      "clusterId": 3,
-      "latitude": 54.96697,
-      "longitude": 13.356274,
-      "capacity": 2.31
-    },
-    {
-      "turbineId": "T005",
-      "clusterId": 0,
-      "latitude": 56.105947,
-      "longitude": 13.101044,
-      "capacity": 2.0
-    },
-    {
-      "turbineId": "T004",
-      "clusterId": 0,
-      "latitude": 56.01403,
-      "longitude": 13.150594,
-      "capacity": 2.13
-    },
-    {
-      "turbineId": "T076",
-      "clusterId": 3,
-      "latitude": 54.848407,
-      "longitude": 13.004153,
-      "capacity": 3.83
-    },
-    {
-      "turbineId": "T090",
-      "clusterId": 3,
-      "latitude": 55.035145,
-      "longitude": 13.565112,
-      "capacity": 4.42
-    },
-    {
-      "turbineId": "T330",
-      "clusterId": 4,
-      "latitude": 55.505221,
-      "longitude": 11.707886,
-      "capacity": 2.93
+      "latitude": 55.202505,
+      "longitude": 11.649886,
+      "capacity": 4.36
     },
     {
       "turbineId": "T364",
       "clusterId": 4,
-      "latitude": 55.137242,
-      "longitude": 12.266238,
-      "capacity": 4.44
+      "latitude": 55.404077,
+      "longitude": 11.696454,
+      "capacity": 3.1
     },
     {
-      "turbineId": "T318",
-      "clusterId": 4,
-      "latitude": 55.113265,
-      "longitude": 11.791376,
-      "capacity": 3.44
+      "turbineId": "T052",
+      "clusterId": 1,
+      "latitude": 56.025446,
+      "longitude": 12.469341,
+      "capacity": 3.49
     },
     {
-      "turbineId": "T395",
-      "clusterId": 6,
-      "latitude": 54.919878,
-      "longitude": 12.435409,
-      "capacity": 2.55
-    },
-    {
-      "turbineId": "T157",
+      "turbineId": "T283",
       "clusterId": 3,
-      "latitude": 55.48723,
-      "longitude": 12.836672,
-      "capacity": 2.96
+      "latitude": 55.859666,
+      "longitude": 12.223124,
+      "capacity": 3.0
     },
     {
-      "turbineId": "T375",
-      "clusterId": 4,
-      "latitude": 55.128866,
-      "longitude": 11.748737,
-      "capacity": 3.64
-    },
-    {
-      "turbineId": "T160",
+      "turbineId": "T190",
       "clusterId": 3,
-      "latitude": 55.69027,
-      "longitude": 13.253742,
-      "capacity": 2.92
+      "latitude": 55.352969,
+      "longitude": 12.197666,
+      "capacity": 2.72
     },
     {
-      "turbineId": "T334",
-      "clusterId": 4,
-      "latitude": 55.983002,
-      "longitude": 12.363128,
-      "capacity": 2.81
-    },
-    {
-      "turbineId": "T081",
+      "turbineId": "T246",
       "clusterId": 3,
-      "latitude": 55.320447,
-      "longitude": 12.955112,
-      "capacity": 2.59
+      "latitude": 55.51162,
+      "longitude": 12.25203,
+      "capacity": 3.4
     },
     {
-      "turbineId": "T010",
+      "turbineId": "T328",
+      "clusterId": 4,
+      "latitude": 55.540287,
+      "longitude": 11.65407,
+      "capacity": 3.57
+    },
+    {
+      "turbineId": "T026",
       "clusterId": 0,
-      "latitude": 56.343684,
-      "longitude": 12.826581,
-      "capacity": 2.32
+      "latitude": 55.89125,
+      "longitude": 11.999498,
+      "capacity": 4.02
     },
     {
-      "turbineId": "T392",
-      "clusterId": 6,
-      "latitude": 55.074801,
-      "longitude": 12.415718,
-      "capacity": 2.18
-    },
-    {
-      "turbineId": "T211",
+      "turbineId": "T128",
       "clusterId": 3,
-      "latitude": 55.402183,
-      "longitude": 12.64822,
-      "capacity": 2.11
+      "latitude": 55.407948,
+      "longitude": 12.531418,
+      "capacity": 4.18
     },
     {
-      "turbineId": "T244",
+      "turbineId": "T070",
       "clusterId": 3,
-      "latitude": 55.359432,
-      "longitude": 12.66831,
-      "capacity": 2.7
+      "latitude": 55.086102,
+      "longitude": 12.38967,
+      "capacity": 4.2
     },
     {
-      "turbineId": "T343",
+      "turbineId": "T309",
+      "clusterId": 3,
+      "latitude": 55.47692,
+      "longitude": 11.764439,
+      "capacity": 2.44
+    },
+    {
+      "turbineId": "T102",
+      "clusterId": 3,
+      "latitude": 55.749703,
+      "longitude": 11.705799,
+      "capacity": 4.45
+    },
+    {
+      "turbineId": "T082",
+      "clusterId": 3,
+      "latitude": 55.284325,
+      "longitude": 12.302416,
+      "capacity": 3.22
+    },
+    {
+      "turbineId": "T214",
+      "clusterId": 3,
+      "latitude": 55.726392,
+      "longitude": 12.263405,
+      "capacity": 3.33
+    },
+    {
+      "turbineId": "T270",
+      "clusterId": 3,
+      "latitude": 55.808261,
+      "longitude": 11.93891,
+      "capacity": 3.22
+    },
+    {
+      "turbineId": "T257",
+      "clusterId": 3,
+      "latitude": 55.172392,
+      "longitude": 12.32911,
+      "capacity": 3.23
+    },
+    {
+      "turbineId": "T195",
+      "clusterId": 3,
+      "latitude": 55.602178,
+      "longitude": 12.098565,
+      "capacity": 3.55
+    },
+    {
+      "turbineId": "T144",
+      "clusterId": 3,
+      "latitude": 55.571217,
+      "longitude": 11.673601,
+      "capacity": 2.73
+    },
+    {
+      "turbineId": "T236",
+      "clusterId": 3,
+      "latitude": 55.174112,
+      "longitude": 11.671472,
+      "capacity": 3.14
+    },
+    {
+      "turbineId": "T225",
+      "clusterId": 3,
+      "latitude": 55.702309,
+      "longitude": 11.84139,
+      "capacity": 2.35
+    },
+    {
+      "turbineId": "T292",
+      "clusterId": 3,
+      "latitude": 55.509075,
+      "longitude": 11.97305,
+      "capacity": 3.97
+    },
+    {
+      "turbineId": "T347",
       "clusterId": 4,
-      "latitude": 55.201952,
-      "longitude": 11.50384,
-      "capacity": 3.75
+      "latitude": 55.83403,
+      "longitude": 11.475671,
+      "capacity": 3.98
     },
     {
-      "turbineId": "T125",
+      "turbineId": "T188",
       "clusterId": 3,
-      "latitude": 55.220508,
-      "longitude": 13.040771,
-      "capacity": 3.35
+      "latitude": 55.728901,
+      "longitude": 11.740112,
+      "capacity": 3.24
     },
     {
-      "turbineId": "T008",
-      "clusterId": 0,
-      "latitude": 56.299353,
-      "longitude": 13.08487,
-      "capacity": 2.31
-    },
-    {
-      "turbineId": "T181",
+      "turbineId": "T099",
       "clusterId": 3,
-      "latitude": 55.149835,
-      "longitude": 13.059374,
-      "capacity": 2.05
+      "latitude": 55.75397,
+      "longitude": 12.382362,
+      "capacity": 2.97
     },
     {
-      "turbineId": "T067",
+      "turbineId": "T240",
       "clusterId": 3,
-      "latitude": 54.811164,
-      "longitude": 12.325233,
-      "capacity": 2.87
+      "latitude": 55.645176,
+      "longitude": 12.573098,
+      "capacity": 4.06
     },
     {
-      "turbineId": "T096",
+      "turbineId": "T158",
       "clusterId": 3,
-      "latitude": 55.267852,
-      "longitude": 12.811198,
-      "capacity": 2.56
+      "latitude": 55.660051,
+      "longitude": 11.995876,
+      "capacity": 2.63
     },
     {
-      "turbineId": "T147",
+      "turbineId": "T122",
       "clusterId": 3,
-      "latitude": 55.131621,
-      "longitude": 13.033787,
-      "capacity": 2.93
+      "latitude": 55.13458,
+      "longitude": 12.213873,
+      "capacity": 4.13
+    },
+    {
+      "turbineId": "T273",
+      "clusterId": 3,
+      "latitude": 55.1357,
+      "longitude": 11.640811,
+      "capacity": 2.08
+    },
+    {
+      "turbineId": "T119",
+      "clusterId": 3,
+      "latitude": 55.801949,
+      "longitude": 12.06922,
+      "capacity": 3.73
+    },
+    {
+      "turbineId": "T229",
+      "clusterId": 3,
+      "latitude": 55.671368,
+      "longitude": 12.244201,
+      "capacity": 4.45
+    },
+    {
+      "turbineId": "T383",
+      "clusterId": 4,
+      "latitude": 55.462031,
+      "longitude": 11.745534,
+      "capacity": 3.46
     }
   ]
 }
