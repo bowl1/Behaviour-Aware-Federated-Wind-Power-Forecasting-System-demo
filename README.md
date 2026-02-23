@@ -204,12 +204,6 @@ Returns service status and available models.
 
 ## Getting Started
 
-### Prerequisites
-- **Python 3.10+** - [Download](https://www.python.org/downloads/)
-- **Node.js 18+** - [Download](https://nodejs.org/)
-
-### Installation & Running
-
 ```bash
 cd turbine_forecasting
 chmod +x scripts/dev.sh
