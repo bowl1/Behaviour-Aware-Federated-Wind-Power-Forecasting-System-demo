@@ -1,5 +1,5 @@
 """
-FastAPI application for wind power forecasting inference service.
+Django views for wind power forecasting inference service.
 Provides REST API endpoints for turbine power predictions.
 """
 import datetime as dt
@@ -7,22 +7,12 @@ import json
 from pathlib import Path
 from typing import List
 
-from fastapi import FastAPI, HTTPException
-from fastapi.middleware.cors import CORSMiddleware
+from api import endpoint
+from errors import APIError
 from pydantic import BaseModel
 
 from models import get_model
 from prediction import predict_24h
-
-
-app = FastAPI(title="Wind Power Inference Service")
-app.add_middleware(
-    CORSMiddleware,
-    allow_origins=["*"],
-    allow_credentials=False,
-    allow_methods=["*"],
-    allow_headers=["*"],
-)
 
 
 class PredictRequest(BaseModel):
@@ -72,7 +62,7 @@ def load_turbines() -> List[Turbine]:
 
     data_path = str(Path(__file__).resolve().parents[1] / "data" / "turbines.json")
     if not Path(data_path).exists():
-        raise HTTPException(status_code=500, detail=f"turbines.json not found: {data_path}")
+        raise APIError(status_code=500, detail=f"turbines.json not found: {data_path}")
 
     current_mtime = Path(data_path).stat().st_mtime
     if _turbines_cache is not None and _turbines_mtime == current_mtime:
@@ -109,7 +99,7 @@ def run_prediction(
     try:
         _ = dt.datetime.fromisoformat(start_time.replace("Z", "+00:00"))
     except Exception:
-        raise HTTPException(status_code=400, detail="Invalid startTime format")
+        raise APIError(status_code=400, detail="Invalid startTime format")
 
     model, x_scalers, y_scalers = get_model(cluster_id)
     values = predict_24h(
@@ -131,13 +121,13 @@ def run_prediction(
     )
 
 
-@app.get("/")
+@endpoint("GET")
 def health():
     """Basic health endpoint."""
     return {"status": "ok", "service": "wind-power-inference"}
 
 
-@app.post("/predict", response_model=PredictResponse)
+@endpoint("POST", PredictRequest)
 def predict(req: PredictRequest):
     """
     Generate 24-hour power predictions for a wind turbine.
@@ -149,7 +139,7 @@ def predict(req: PredictRequest):
         24 hourly power predictions with cluster-specific behavior
         
     Raises:
-        HTTPException: If request validation fails or model loading fails
+        APIError: If request validation fails or model loading fails
     """
     return run_prediction(
         turbine_id=req.turbineId,
@@ -159,13 +149,13 @@ def predict(req: PredictRequest):
     )
 
 
-@app.get("/api/turbines", response_model=List[Turbine])
+@endpoint("GET")
 def get_all_turbines():
     """Return all turbines for frontend map display."""
     return load_turbines()
 
 
-@app.get("/api/turbines/{turbine_id}", response_model=Turbine)
+@endpoint("GET")
 def get_turbine_by_id(turbine_id: str):
     """Return one turbine by id."""
     turbine = next(
@@ -173,11 +163,11 @@ def get_turbine_by_id(turbine_id: str):
         None,
     )
     if turbine is None:
-        raise HTTPException(status_code=404, detail="Turbine not found")
+        raise APIError(status_code=404, detail="Turbine not found")
     return turbine
 
 
-@app.post("/api/forecast", response_model=PredictResponse)
+@endpoint("POST", ForecastRequest)
 def forecast(req: ForecastRequest):
 
     turbine = next(
@@ -185,7 +175,7 @@ def forecast(req: ForecastRequest):
         None,
     )
     if turbine is None:
-        raise HTTPException(status_code=404, detail="Turbine not found")
+        raise APIError(status_code=404, detail="Turbine not found")
 
     return run_prediction(
         turbine_id=turbine.id,
@@ -195,5 +185,3 @@ def forecast(req: ForecastRequest):
     )
 
 
-# To run: uvicorn main:app --reload --port 8000
-# Swagger UI: http://localhost:8000/docs

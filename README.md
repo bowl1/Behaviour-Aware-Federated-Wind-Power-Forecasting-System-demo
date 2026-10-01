@@ -2,7 +2,7 @@
 
 A full-stack wind turbine power forecasting application demonstrating modern ML integration:
 
-**React Frontend** → **FastAPI Service (Python)** → **PyTorch LSTM Models (.h5)**
+**React Frontend** → **Django Service (Python)** → **PyTorch LSTM Models (.h5)**
 
 > **Note**: This is a demonstration project. All turbine data, locations, and predictions are synthetically generated. The LSTM models use cluster-based behavior patterns to simulate realistic wind power forecasting scenarios.
 
@@ -88,7 +88,7 @@ React chart displays results
 | Build Tool | Vite | 5+ |
 | Mapping | Leaflet | 1.9+ |
 | Charts | Chart.js | 4+ |
-| ML Service | FastAPI | 0.104+ |
+| ML Service | Django | 5.2 LTS |
 | ML Framework | PyTorch | 2.1+ |
 | Data Format | HDF5 (h5py) | 3.10+ |
 
@@ -101,8 +101,12 @@ React chart displays results
 
 ```
 turbine_forecasting/
-├── python_service/               # Python FastAPI ML Service
-│   ├── main.py                   # FastAPI app with /api/turbines + /api/forecast + /predict
+├── python_service/               # Python Django ML Service
+│   ├── manage.py                 # Django management commands
+│   ├── config/                   # Settings, URL routing, WSGI and ASGI
+│   ├── views.py                  # Django views with /api/turbines + /api/forecast + /predict
+│   ├── api.py                    # JSON request validation and error responses
+│   ├── tests.py                  # API regression tests
 │   ├── models.py                 # Model loading, MinMaxScaler implementation
 │   ├── prediction.py             # LSTM inference logic with cluster behavior
 │   ├── cluster_config.py         # Cluster behavioral profiles
@@ -141,7 +145,7 @@ turbine_forecasting/
 
 ## API Endpoints
 
-### Python FastAPI Service (Port 8000)
+### Python Django Service (Port 8000)
 
 #### Turbines API
 ```http
@@ -198,11 +202,13 @@ Content-Type: application/json
 ```http
 GET /
 ```
-Returns service status and available models.
+Returns service status.
 
 ---
 
 ## Getting Started
+
+Use Python 3.10 or 3.11 with the pinned PyTorch 2.1 dependencies.
 
 ```bash
 cd turbine_forecasting
@@ -215,3 +221,26 @@ This script starts Python API and frontend concurrently.
 If needed, you can override frontend API target via `VITE_API_URL` (default: `http://localhost:8000`).
 
 ---
+
+### Django backend commands
+
+```bash
+cd python_service
+python3 -m venv .venv
+source .venv/bin/activate
+pip install -r requirements.txt
+python manage.py check
+python manage.py test
+python manage.py runserver 8000
+```
+
+The backend reads the existing JSON data and HDF5 models directly; no database
+or migrations are required. API paths and response formats remain unchanged.
+Pydantic validates JSON requests (422 for invalid fields, 400 for malformed JSON).
+Django does not provide the former FastAPI `/docs` and `/openapi.json` endpoints.
+
+Django configuration lives in `python_service/config/`, with WSGI and ASGI
+entry points. Local development defaults to `DJANGO_DEBUG=1`. For deployment,
+set `DJANGO_DEBUG=0`, `DJANGO_SECRET_KEY`, and comma-separated
+`DJANGO_ALLOWED_HOSTS`. Public, unauthenticated inference endpoints retain
+wildcard CORS without credentials; they do not use session authentication.
