@@ -8,7 +8,7 @@ import torch
 import torch.nn as nn
 import h5py
 import numpy as np
-from fastapi import HTTPException
+from errors import APIError
 
 
 class MinMaxScaler:
@@ -89,10 +89,10 @@ def get_model(cluster_id: int) -> Tuple[Any, Dict[str, MinMaxScaler], Dict[str, 
         - y_scalers: Dict mapping turbine_id to output scaler
         
     Raises:
-        HTTPException: If cluster is unsupported or model loading fails
+        APIError: If cluster is unsupported or model loading fails
     """
     if cluster_id not in AVAILABLE_CLUSTERS:
-        raise HTTPException(status_code=400, detail="Unsupported clusterId")
+        raise APIError(status_code=400, detail="Unsupported clusterId")
     if cluster_id in _models:
         return _models[cluster_id]
 
@@ -100,7 +100,7 @@ def get_model(cluster_id: int) -> Tuple[Any, Dict[str, MinMaxScaler], Dict[str, 
     model_path = os.path.join(MODELS_DIR, f"full_model_cluster{cluster_id}.h5")
     
     if not os.path.exists(model_path):
-        raise HTTPException(status_code=500, detail=f"Model file not found for cluster {cluster_id}")
+        raise APIError(status_code=500, detail=f"Model file not found for cluster {cluster_id}")
 
     try:
         # Create model instance
@@ -148,4 +148,4 @@ def get_model(cluster_id: int) -> Tuple[Any, Dict[str, MinMaxScaler], Dict[str, 
         return model, x_scalers, y_scalers
         
     except Exception as e:
-        raise HTTPException(status_code=500, detail=f"Failed to load model: {str(e)}")
+        raise APIError(status_code=500, detail=f"Failed to load model: {str(e)}")
